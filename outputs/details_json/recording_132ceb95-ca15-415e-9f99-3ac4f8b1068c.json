@@ -1,0 +1,1254 @@
+{
+  "length": 166166,
+  "rating": {
+    "value": 2,
+    "votes-count": 1
+  },
+  "video": false,
+  "releases": [
+    {
+      "packaging": "Gatefold Cover",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "title": "KID A MNESIA",
+      "release-events": [
+        {
+          "date": "2021-11-05",
+          "area": {
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "type": null,
+            "name": "United Kingdom",
+            "disambiguation": "",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "sort-name": "United Kingdom",
+            "type-id": null
+          }
+        }
+      ],
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "joinphrase": "",
+          "artist": {
+            "name": "Radiohead",
+            "type": "Group",
+            "genres": [
+              {
+                "name": "alternative rock",
+                "count": 39,
+                "disambiguation": "",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+              },
+              {
+                "count": 2,
+                "disambiguation": "",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop"
+              },
+              {
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "count": 25,
+                "disambiguation": "",
+                "name": "art rock"
+              },
+              {
+                "name": "electronic",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "disambiguation": "",
+                "count": 11
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica"
+              },
+              {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "disambiguation": "",
+                "name": "experimental"
+              },
+              {
+                "name": "experimental rock",
+                "disambiguation": "",
+                "count": 12,
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7"
+              },
+              {
+                "name": "indie rock",
+                "count": 3,
+                "disambiguation": "",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7"
+              },
+              {
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "disambiguation": "",
+                "count": 16,
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Radiohead",
+            "disambiguation": "",
+            "country": "GB",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "name": "british",
+                "count": 12
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "count": 1,
+                "name": "progressive rock music"
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ]
+          }
+        }
+      ],
+      "date": "2021-11-05",
+      "id": "ec046815-c5d4-4943-b336-0b83aefde154",
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+      "barcode": "191404116623",
+      "tags": [],
+      "status": "Official",
+      "genres": [],
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "disambiguation": "",
+      "country": "GB",
+      "quality": "normal"
+    },
+    {
+      "date": "2021-11-05",
+      "id": "c953187d-4f22-4c6a-9537-8f502274afc7",
+      "title": "KID A MNESIA",
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Radiohead",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "country": "GB",
+            "disambiguation": "",
+            "type": "Group",
+            "name": "Radiohead",
+            "genres": [
+              {
+                "count": 39,
+                "disambiguation": "",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "name": "alternative rock"
+              },
+              {
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "count": 2,
+                "disambiguation": "",
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "count": 25,
+                "disambiguation": ""
+              },
+              {
+                "name": "electronic",
+                "disambiguation": "",
+                "count": 11,
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+              },
+              {
+                "name": "electronica",
+                "disambiguation": "",
+                "count": 1,
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+              },
+              {
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "name": "experimental rock",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "disambiguation": ""
+              },
+              {
+                "name": "indie rock",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "disambiguation": "",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "name": "rock",
+                "disambiguation": "",
+                "count": 16,
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "count": 1
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ]
+          }
+        }
+      ],
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type": null,
+            "name": "[Worldwide]",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "disambiguation": "",
+            "type-id": null,
+            "sort-name": "[Worldwide]"
+          },
+          "date": "2021-11-05"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": "None",
+      "country": "XW",
+      "disambiguation": "",
+      "quality": "normal",
+      "status": "Official",
+      "genres": [],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "tags": [
+        {
+          "name": "alternative",
+          "count": 1
+        },
+        {
+          "count": 1,
+          "name": "oxford"
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "191404116654"
+    },
+    {
+      "date": "2021-11-05",
+      "id": "4393b20c-f635-491e-92c0-2a5519151e5d",
+      "release-events": [
+        {
+          "area": {
+            "sort-name": "United Kingdom",
+            "type-id": null,
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "disambiguation": "",
+            "type": null,
+            "name": "United Kingdom",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          },
+          "date": "2021-11-05"
+        }
+      ],
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "artist": {
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "count": 1
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "genres": [
+              {
+                "disambiguation": "",
+                "count": 39,
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "name": "alternative rock"
+              },
+              {
+                "count": 2,
+                "disambiguation": "",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "disambiguation": "",
+                "count": 25,
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+              },
+              {
+                "name": "electronic",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "count": 11,
+                "disambiguation": ""
+              },
+              {
+                "name": "electronica",
+                "count": 1,
+                "disambiguation": "",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+              },
+              {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "disambiguation": "",
+                "name": "experimental"
+              },
+              {
+                "name": "experimental rock",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "disambiguation": ""
+              },
+              {
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "count": 3,
+                "disambiguation": "",
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "disambiguation": "",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "name": "post-britpop"
+              },
+              {
+                "name": "rock",
+                "disambiguation": "",
+                "count": 16,
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "type": "Group",
+            "name": "Radiohead",
+            "sort-name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "disambiguation": "",
+            "country": "GB",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+          },
+          "joinphrase": ""
+        }
+      ],
+      "title": "KID A MNESIA",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": "Gatefold Cover",
+      "quality": "normal",
+      "country": "GB",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "genres": [],
+      "status": "Official",
+      "tags": [],
+      "barcode": null,
+      "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202"
+    },
+    {
+      "date": "2021-11-05",
+      "id": "861e74b2-ed95-4098-860f-031c5933b886",
+      "title": "KID A MNESIA",
+      "release-events": [
+        {
+          "date": "2021-11-05",
+          "area": {
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type": null,
+            "name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ]
+          }
+        }
+      ],
+      "artist-credit": [
+        {
+          "artist": {
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ],
+            "genres": [
+              {
+                "count": 39,
+                "disambiguation": "",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "name": "alternative rock"
+              },
+              {
+                "count": 2,
+                "disambiguation": "",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop"
+              },
+              {
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "count": 25,
+                "disambiguation": "",
+                "name": "art rock"
+              },
+              {
+                "name": "electronic",
+                "count": 11,
+                "disambiguation": "",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+              },
+              {
+                "name": "electronica",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "disambiguation": "",
+                "name": "experimental"
+              },
+              {
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "disambiguation": "",
+                "name": "experimental rock"
+              },
+              {
+                "count": 3,
+                "disambiguation": "",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "name": "indie rock"
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "name": "post-britpop"
+              },
+              {
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "count": 16,
+                "disambiguation": ""
+              }
+            ],
+            "type": "Group",
+            "name": "Radiohead",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "disambiguation": "",
+            "country": "GB",
+            "sort-name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "joinphrase": "",
+          "name": "Radiohead"
+        }
+      ],
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "packaging": "None",
+      "country": "XW",
+      "disambiguation": "",
+      "quality": "normal",
+      "genres": [
+        {
+          "name": "alternative rock",
+          "count": 1,
+          "disambiguation": "",
+          "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+        },
+        {
+          "name": "electronic",
+          "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "disambiguation": "",
+          "count": 1,
+          "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+          "name": "experimental"
+        },
+        {
+          "name": "idm",
+          "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+          "disambiguation": "",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1,
+          "disambiguation": "",
+          "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+        }
+      ],
+      "status": "Official",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "name": "electronic",
+          "count": 1
+        },
+        {
+          "name": "experimental",
+          "count": 1
+        },
+        {
+          "name": "idm",
+          "count": 1
+        },
+        {
+          "name": "rock",
+          "count": 1
+        }
+      ],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "barcode": "191404116654"
+    },
+    {
+      "status": "Official",
+      "genres": [],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "country": "JP",
+      "disambiguation": "",
+      "quality": "normal",
+      "packaging-id": "f7101ce3-0384-39ce-9fde-fbbd0044d35f",
+      "barcode": "4580211855409",
+      "tags": [],
+      "title": "KID A MNESIA",
+      "release-events": [
+        {
+          "date": "2021-11-05",
+          "area": {
+            "iso-3166-1-codes": [
+              "JP"
+            ],
+            "disambiguation": "",
+            "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+            "type-id": null,
+            "sort-name": "Japan",
+            "type": null,
+            "name": "Japan"
+          }
+        }
+      ],
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "disambiguation": "",
+            "country": "GB",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Radiohead",
+            "type": "Group",
+            "genres": [
+              {
+                "disambiguation": "",
+                "count": 39,
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "name": "alternative rock"
+              },
+              {
+                "disambiguation": "",
+                "count": 2,
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop"
+              },
+              {
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "disambiguation": "",
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "disambiguation": "",
+                "count": 11,
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "name": "electronic"
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica"
+              },
+              {
+                "name": "experimental",
+                "disambiguation": "",
+                "count": 1,
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99"
+              },
+              {
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "disambiguation": "",
+                "name": "experimental rock"
+              },
+              {
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "count": 3,
+                "disambiguation": "",
+                "name": "indie rock"
+              },
+              {
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "disambiguation": "",
+                "name": "post-britpop"
+              },
+              {
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "count": 16,
+                "disambiguation": "",
+                "name": "rock"
+              }
+            ],
+            "name": "Radiohead",
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "count": 3,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ]
+          },
+          "joinphrase": "",
+          "name": "Radiohead"
+        }
+      ],
+      "date": "2021-11-05",
+      "id": "e3b206e6-9848-4d1c-bfbc-52b59be5362b",
+      "packaging": "Cardboard/Paper Sleeve",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe"
+    },
+    {
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "joinphrase": "",
+          "artist": {
+            "genres": [
+              {
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "count": 39,
+                "disambiguation": "",
+                "name": "alternative rock"
+              },
+              {
+                "name": "art pop",
+                "count": 2,
+                "disambiguation": "",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14"
+              },
+              {
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "count": 25,
+                "disambiguation": "",
+                "name": "art rock"
+              },
+              {
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "count": 11,
+                "disambiguation": "",
+                "name": "electronic"
+              },
+              {
+                "name": "electronica",
+                "count": 1,
+                "disambiguation": "",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+              },
+              {
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "name": "experimental rock",
+                "disambiguation": "",
+                "count": 12,
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7"
+              },
+              {
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "count": 3,
+                "disambiguation": "",
+                "name": "indie rock"
+              },
+              {
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "disambiguation": "",
+                "name": "post-britpop"
+              },
+              {
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "count": 16,
+                "disambiguation": ""
+              }
+            ],
+            "type": "Group",
+            "name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Radiohead",
+            "country": "GB",
+            "disambiguation": "",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "count": 1
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ]
+          }
+        }
+      ],
+      "release-events": [
+        {
+          "date": "2021-11",
+          "area": {
+            "iso-3166-1-codes": [
+              "GB"
+            ],
+            "type": null,
+            "name": "United Kingdom",
+            "type-id": null,
+            "sort-name": "United Kingdom",
+            "disambiguation": "",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+          }
+        }
+      ],
+      "title": "KID A MNESIETTE",
+      "id": "f5b5c6be-2967-46f6-9362-dc7da606ca5a",
+      "date": "2021-11",
+      "packaging": "Box",
+      "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "genres": [],
+      "status": "Official",
+      "quality": "normal",
+      "country": "GB",
+      "disambiguation": "",
+      "barcode": "191404116647",
+      "packaging-id": "c1668fc7-8944-4a00-bc3e-46e8d861d211",
+      "tags": []
+    }
+  ],
+  "id": "132ceb95-ca15-415e-9f99-3ac4f8b1068c",
+  "artist-credit": [
+    {
+      "artist": {
+        "tags": [
+          {
+            "count": 1,
+            "name": "alternative"
+          },
+          {
+            "name": "alternative rock",
+            "count": 39
+          },
+          {
+            "name": "alternative rock music",
+            "count": 1
+          },
+          {
+            "name": "art pop",
+            "count": 2
+          },
+          {
+            "name": "art rock",
+            "count": 25
+          },
+          {
+            "count": 12,
+            "name": "british"
+          },
+          {
+            "name": "electronic",
+            "count": 11
+          },
+          {
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "count": 1,
+            "name": "experimental"
+          },
+          {
+            "name": "experimental rock",
+            "count": 12
+          },
+          {
+            "name": "indie rock",
+            "count": 3
+          },
+          {
+            "count": 1,
+            "name": "post-britpop"
+          },
+          {
+            "name": "progressive rock music",
+            "count": 1
+          },
+          {
+            "name": "rock",
+            "count": 16
+          }
+        ],
+        "genres": [
+          {
+            "name": "alternative rock",
+            "disambiguation": "",
+            "count": 39,
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+          },
+          {
+            "count": 2,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop"
+          },
+          {
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "count": 25,
+            "disambiguation": "",
+            "name": "art rock"
+          },
+          {
+            "name": "electronic",
+            "disambiguation": "",
+            "count": 11,
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+          },
+          {
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "count": 1,
+            "disambiguation": "",
+            "name": "electronica"
+          },
+          {
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "count": 1,
+            "disambiguation": "",
+            "name": "experimental"
+          },
+          {
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "count": 12,
+            "disambiguation": "",
+            "name": "experimental rock"
+          },
+          {
+            "name": "indie rock",
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7"
+          },
+          {
+            "disambiguation": "",
+            "count": 1,
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "name": "post-britpop"
+          },
+          {
+            "name": "rock",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "count": 16,
+            "disambiguation": ""
+          }
+        ],
+        "type": "Group",
+        "name": "Radiohead",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Radiohead",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "joinphrase": "",
+      "name": "Radiohead"
+    }
+  ],
+  "title": "Pulk/Pull (True Love Waits version)",
+  "tags": [
+    {
+      "count": 1,
+      "name": "idm"
+    },
+    {
+      "name": "post-industrial",
+      "count": 1
+    }
+  ],
+  "first-release-date": "2021-11-05",
+  "disambiguation": "",
+  "genres": [
+    {
+      "name": "idm",
+      "id": "8eb583f1-4fd7-460c-8246-dcdccc0e3ef9",
+      "count": 1,
+      "disambiguation": ""
+    },
+    {
+      "name": "post-industrial",
+      "id": "53ceafec-ced4-4bec-ac57-d00cbf3a0c29",
+      "disambiguation": "",
+      "count": 1
+    }
+  ]
+}

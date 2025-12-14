@@ -1,0 +1,321 @@
+{
+  "disambiguation": "",
+  "id": "9a5ff89a-3189-4e8f-b953-76ff19ed250c",
+  "title": "< Tape Blip: Fast‐Forwarding True Love Bass Riff >",
+  "genres": [],
+  "video": false,
+  "first-release-date": "2019-06-11",
+  "rating": {
+    "votes-count": 0,
+    "value": null
+  },
+  "length": null,
+  "tags": [],
+  "releases": [
+    {
+      "disambiguation": "",
+      "title": "MINIDISCS [HACKED]",
+      "date": "2019-06-11",
+      "tags": [],
+      "packaging": null,
+      "packaging-id": null,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "name": "Radiohead",
+          "artist": {
+            "name": "Radiohead",
+            "genres": [
+              {
+                "name": "alternative rock",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "disambiguation": "",
+                "count": 39
+              },
+              {
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop",
+                "count": 2,
+                "disambiguation": ""
+              },
+              {
+                "name": "art rock",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "disambiguation": "",
+                "count": 25
+              },
+              {
+                "count": 11,
+                "disambiguation": "",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "name": "electronic"
+              },
+              {
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99"
+              },
+              {
+                "name": "experimental rock",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "disambiguation": "",
+                "count": 12
+              },
+              {
+                "count": 3,
+                "disambiguation": "",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "name": "indie rock"
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a"
+              },
+              {
+                "disambiguation": "",
+                "count": 16,
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "name": "alternative rock",
+                "count": 39
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "count": 3,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "sort-name": "Radiohead",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "type": "Group",
+            "country": "GB",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "disambiguation": ""
+          }
+        }
+      ],
+      "barcode": "",
+      "quality": "normal",
+      "status": "Bootleg",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "disambiguation": "",
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type": null,
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "sort-name": "[Worldwide]",
+            "name": "[Worldwide]"
+          },
+          "date": "2019-06-11"
+        }
+      ],
+      "country": "XW",
+      "text-representation": {
+        "script": "Latn",
+        "language": "mul"
+      },
+      "id": "ddbf1fc9-2993-4bac-a488-e542f38cdd20",
+      "genres": []
+    }
+  ],
+  "artist-credit": [
+    {
+      "name": "Radiohead",
+      "joinphrase": "",
+      "artist": {
+        "type": "Group",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "name": "Radiohead",
+        "tags": [
+          {
+            "name": "alternative",
+            "count": 1
+          },
+          {
+            "name": "alternative rock",
+            "count": 39
+          },
+          {
+            "count": 1,
+            "name": "alternative rock music"
+          },
+          {
+            "name": "art pop",
+            "count": 2
+          },
+          {
+            "count": 25,
+            "name": "art rock"
+          },
+          {
+            "count": 12,
+            "name": "british"
+          },
+          {
+            "name": "electronic",
+            "count": 11
+          },
+          {
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "name": "experimental",
+            "count": 1
+          },
+          {
+            "name": "experimental rock",
+            "count": 12
+          },
+          {
+            "name": "indie rock",
+            "count": 3
+          },
+          {
+            "count": 1,
+            "name": "post-britpop"
+          },
+          {
+            "name": "progressive rock music",
+            "count": 1
+          },
+          {
+            "count": 16,
+            "name": "rock"
+          }
+        ],
+        "sort-name": "Radiohead",
+        "genres": [
+          {
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock",
+            "count": 39,
+            "disambiguation": ""
+          },
+          {
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "name": "art pop",
+            "count": 2,
+            "disambiguation": ""
+          },
+          {
+            "name": "art rock",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "disambiguation": "",
+            "count": 25
+          },
+          {
+            "disambiguation": "",
+            "count": 11,
+            "name": "electronic",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+          },
+          {
+            "name": "electronica",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "disambiguation": "",
+            "count": 1
+          },
+          {
+            "name": "experimental",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "disambiguation": "",
+            "count": 1
+          },
+          {
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock",
+            "count": 12,
+            "disambiguation": ""
+          },
+          {
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock",
+            "count": 3,
+            "disambiguation": ""
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "name": "post-britpop"
+          },
+          {
+            "count": 16,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ]
+      }
+    }
+  ]
+}

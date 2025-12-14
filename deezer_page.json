@@ -1,0 +1,2901 @@
+{
+  "version": "2.5",
+  "page_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0",
+  "render_id": "019b1ab8-fdd0-71b0-884e-d88b909f2de2",
+  "page_name": "channels/charts",
+  "product_version": "channel-cms.1.0",
+  "ga": {
+    "screen_name": "page-charts"
+  },
+  "title": "Charts",
+  "persistent": true,
+  "sections": [
+    {
+      "layout": "large-card",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=large-card,section_position=0,module_id=ae914587-53c3-443e-81ce-1058e44f79ef,module_type=playlists,layout=playlists_layout_large-card,content_source=playlists_content-source_targeted-module,content_source_count=0,content_programming_count=1,section_content=playlist%3A1111142221",
+      "group_id": "693e2311e2a31",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=large-card,section_position=0,module_id=ae914587-53c3-443e-81ce-1058e44f79ef,module_type=playlists,layout=playlists_layout_large-card,content_source=playlists_content-source_targeted-module,content_source_count=0,content_programming_count=1,section_content=playlist%3A1111142221,item_type=playlist,item_id=1111142221,item_position=0",
+          "id": "1111142221",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 1961687,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1111142221",
+            "PLAYLIST_PICTURE": "61230f228f1a14d6c5dd58bb42f65213",
+            "STATUS": 0,
+            "TITLE": "Top UK",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:09",
+            "DATE_ADD": "2025-12-13 05:58:09",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist",
+            "PARENT_USERNAME": "Deezer Charts",
+            "PARENT_USER_PICTURE": "63d967d09a48005fbf37464a4ee39405"
+          },
+          "target": "/playlist/1111142221",
+          "title": "Top UK",
+          "subtitle": "100 tracks - 1 961 687 fans",
+          "caption": "Playlist featuring sombr, Wizzard, Wham!",
+          "pictures": [
+            {
+              "md5": "61230f228f1a14d6c5dd58bb42f65213",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "ae914587-53c3-443e-81ce-1058e44f79ef",
+      "title": "Today's top tracks",
+      "alignment": "left",
+      "subtitle": "Fresh every day",
+      "hasMoreItems": false
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=1,module_id=a2f36753-d964-4868-92bf-df3c26ca0ec9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=2,section_content=playlist%3A2872124702%3Bplaylist%3A2868476282",
+      "group_id": "693e2311e2a5f",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=1,module_id=a2f36753-d964-4868-92bf-df3c26ca0ec9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=2,section_content=playlist%3A2872124702%3Bplaylist%3A2868476282,item_type=playlist,item_id=2872124702,item_position=0",
+          "id": "2872124702",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 21288,
+            "NB_SONG": 9,
+            "PARENT_USER_ID": "27089891",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "2872124702",
+            "PLAYLIST_PICTURE": "e7d0023d43936d95807d41c20887ee07",
+            "STATUS": 0,
+            "TITLE": "Official Chart Number 1s : 2025",
+            "TYPE": "0",
+            "DATE_MOD": "2025-07-22 15:27:12",
+            "DATE_ADD": "2025-01-24 18:53:58",
+            "DESCRIPTION": "Short on time? Then skip to the big ones. A handy shortcut to the most recent Official UK Number 1 singles.\n",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/2872124702",
+          "title": "Official Chart Number 1s : 2025",
+          "subtitle": "9 tracks - 21 288 fans",
+          "description": "Short on time? Then skip to the big ones. A handy shortcut to the most recent Official UK Number 1 singles.\n",
+          "pictures": [
+            {
+              "md5": "e7d0023d43936d95807d41c20887ee07",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=1,module_id=a2f36753-d964-4868-92bf-df3c26ca0ec9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=2,section_content=playlist%3A2872124702%3Bplaylist%3A2868476282,item_type=playlist,item_id=2868476282,item_position=1",
+          "id": "2868476282",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 19803,
+            "NB_SONG": 39,
+            "PARENT_USER_ID": "27089891",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "2868476282",
+            "PLAYLIST_PICTURE": "2447c34aa578141d7f97cb7c688bfe65",
+            "STATUS": 0,
+            "TITLE": "The Official Chart Top 40",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-09 14:26:09",
+            "DATE_ADD": "2025-12-09 14:26:09",
+            "DESCRIPTION": "Compiled by the Official Charts Company, based on sales, downloads and streams. See Top 100 at OfficialCharts.com.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/2868476282",
+          "title": "The Official Chart Top 40",
+          "subtitle": "39 tracks - 19 803 fans",
+          "description": "Compiled by the Official Charts Company, based on sales, downloads and streams. See Top 100 at OfficialCharts.com.",
+          "pictures": [
+            {
+              "md5": "2447c34aa578141d7f97cb7c688bfe65",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "a2f36753-d964-4868-92bf-df3c26ca0ec9",
+      "title": "Official charts",
+      "alignment": "left",
+      "hasMoreItems": false
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575",
+      "group_id": "693e2311e2a79",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=3155776842,item_position=0",
+          "id": "3155776842",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 873984,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "3155776842",
+            "PLAYLIST_PICTURE": "0b92c2f9e94a1a3650f0de769c4fc07c",
+            "STATUS": 0,
+            "TITLE": "Top Worldwide",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:09",
+            "DATE_ADD": "2025-12-13 05:58:09",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/3155776842",
+          "title": "Top Worldwide",
+          "subtitle": "100 tracks - 873 984 fans",
+          "pictures": [
+            {
+              "md5": "0b92c2f9e94a1a3650f0de769c4fc07c",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1313621735,item_position=1",
+          "id": "1313621735",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 606801,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1313621735",
+            "PLAYLIST_PICTURE": "1afd90d72ffbcb336d228e57300a9130",
+            "STATUS": 0,
+            "TITLE": "Top USA",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:08",
+            "DATE_ADD": "2025-12-13 05:58:08",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1313621735",
+          "title": "Top USA",
+          "subtitle": "100 tracks - 606 801 fans",
+          "pictures": [
+            {
+              "md5": "1afd90d72ffbcb336d228e57300a9130",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1313619455,item_position=2",
+          "id": "1313619455",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 38585,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1313619455",
+            "PLAYLIST_PICTURE": "b1c0dc1ab7bcb2607aa4fe5ff042fa17",
+            "STATUS": 0,
+            "TITLE": "Top Ireland",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:08",
+            "DATE_ADD": "2025-12-13 05:58:08",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1313619455",
+          "title": "Top Ireland",
+          "subtitle": "100 tracks - 38 585 fans",
+          "pictures": [
+            {
+              "md5": "b1c0dc1ab7bcb2607aa4fe5ff042fa17",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1111141961,item_position=3",
+          "id": "1111141961",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 5783325,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1111141961",
+            "PLAYLIST_PICTURE": "dba9d2cbf84591ce56bf18a9eb4ef4c8",
+            "STATUS": 0,
+            "TITLE": "Top Brazil",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:10",
+            "DATE_ADD": "2025-12-13 05:58:09",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1111141961",
+          "title": "Top Brazil",
+          "subtitle": "100 tracks - 5 783 325 fans",
+          "pictures": [
+            {
+              "md5": "dba9d2cbf84591ce56bf18a9eb4ef4c8",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1111143121,item_position=4",
+          "id": "1111143121",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 2726261,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1111143121",
+            "PLAYLIST_PICTURE": "147b95617fa371b28fd3cff7097a2171",
+            "STATUS": 0,
+            "TITLE": "Top Germany",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:10",
+            "DATE_ADD": "2025-12-13 05:58:10",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1111143121",
+          "title": "Top Germany",
+          "subtitle": "100 tracks - 2 726 261 fans",
+          "pictures": [
+            {
+              "md5": "147b95617fa371b28fd3cff7097a2171",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1109890291,item_position=5",
+          "id": "1109890291",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 4390141,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1109890291",
+            "PLAYLIST_PICTURE": "cf960e69714cb764ad52147a2d01fd01",
+            "STATUS": 0,
+            "TITLE": "Top France",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:09",
+            "DATE_ADD": "2025-12-13 05:58:09",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1109890291",
+          "title": "Top France",
+          "subtitle": "100 tracks - 4 390 141 fans",
+          "pictures": [
+            {
+              "md5": "cf960e69714cb764ad52147a2d01fd01",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1116188451,item_position=6",
+          "id": "1116188451",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 1498862,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1116188451",
+            "PLAYLIST_PICTURE": "55b1900205061e3ca3f21068eef3cc9c",
+            "STATUS": 0,
+            "TITLE": "Top Colombia",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:09",
+            "DATE_ADD": "2025-12-13 05:58:09",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1116188451",
+          "title": "Top Colombia",
+          "subtitle": "100 tracks - 1 498 862 fans",
+          "pictures": [
+            {
+              "md5": "55b1900205061e3ca3f21068eef3cc9c",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1652248171,item_position=7",
+          "id": "1652248171",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 42471,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1652248171",
+            "PLAYLIST_PICTURE": "e9777f2aac9b9a3ea83714fa340ca024",
+            "STATUS": 0,
+            "TITLE": "Top Canada",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:10",
+            "DATE_ADD": "2025-12-13 05:58:10",
+            "DESCRIPTION": "Top All - Canada",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1652248171",
+          "title": "Top Canada",
+          "subtitle": "100 tracks - 42 471 fans",
+          "description": "Top All - Canada",
+          "pictures": [
+            {
+              "md5": "e9777f2aac9b9a3ea83714fa340ca024",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1111142361,item_position=8",
+          "id": "1111142361",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 1052814,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1111142361",
+            "PLAYLIST_PICTURE": "5d8d4f716ff4815ae5c9badbbfdb0179",
+            "STATUS": 0,
+            "TITLE": "Top Mexico",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:10",
+            "DATE_ADD": "2025-12-13 05:58:10",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1111142361",
+          "title": "Top Mexico",
+          "subtitle": "100 tracks - 1 052 814 fans",
+          "pictures": [
+            {
+              "md5": "5d8d4f716ff4815ae5c9badbbfdb0179",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1266971851,item_position=9",
+          "id": "1266971851",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 273236,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1266971851",
+            "PLAYLIST_PICTURE": "fa09c4baf944f0bc4d25c05f274434a9",
+            "STATUS": 0,
+            "TITLE": "Top Netherlands",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:10",
+            "DATE_ADD": "2025-12-13 05:58:10",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1266971851",
+          "title": "Top Netherlands",
+          "subtitle": "100 tracks - 273 236 fans",
+          "pictures": [
+            {
+              "md5": "fa09c4baf944f0bc4d25c05f274434a9",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1362528775,item_position=10",
+          "id": "1362528775",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 61591,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1362528775",
+            "PLAYLIST_PICTURE": "ae8f124cdc5fe18888c51e65b6dd4a77",
+            "STATUS": 0,
+            "TITLE": "Top South Africa",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:10",
+            "DATE_ADD": "2025-12-13 05:58:10",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1362528775",
+          "title": "Top South Africa",
+          "subtitle": "100 tracks - 61 591 fans",
+          "pictures": [
+            {
+              "md5": "ae8f124cdc5fe18888c51e65b6dd4a77",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=2,module_id=6956d235-bf37-4e04-a7b4-92554f259fc9,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=12,section_content=playlist%3A3155776842%3Bplaylist%3A1313621735%3Bplaylist%3A1313619455%3Bplaylist%3A1111141961%3Bplaylist%3A1111143121%3Bplaylist%3A1109890291%3Bplaylist%3A1116188451%3Bplaylist%3A1652248171%3Bplaylist%3A1111142361%3Bplaylist%3A1266971851%3Bplaylist%3A1362528775%3Bplaylist%3A1362508575,item_type=playlist,item_id=1362508575,item_position=11",
+          "id": "1362508575",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 25591,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1362508575",
+            "PLAYLIST_PICTURE": "421689468534103cb64632522dba33ad",
+            "STATUS": 0,
+            "TITLE": "Top Jamaica",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 05:58:07",
+            "DATE_ADD": "2025-12-13 05:58:07",
+            "DESCRIPTION": "",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1362508575",
+          "title": "Top Jamaica",
+          "subtitle": "100 tracks - 25 591 fans",
+          "pictures": [
+            {
+              "md5": "421689468534103cb64632522dba33ad",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "6956d235-bf37-4e04-a7b4-92554f259fc9",
+      "title": "Charts",
+      "alignment": "left",
+      "target": "/channels/module/6956d235-bf37-4e04-a7b4-92554f259fc9",
+      "related": {
+        "target": "/channels/module/6956d235-bf37-4e04-a7b4-92554f259fc9",
+        "label": "View all",
+        "mandatory": false
+      },
+      "hasMoreItems": true
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521",
+      "group_id": "693e2311e2aa9",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13562522521,item_position=0",
+          "id": "13562522521",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 1377,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13562522521",
+            "PLAYLIST_PICTURE": "8f50324ff2cb82136d6235c8647676a9",
+            "STATUS": 0,
+            "TITLE": "Top Women Worldwide",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-02 10:17:37",
+            "DATE_ADD": "2025-11-03 10:33:42",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13562522521",
+          "title": "Top Women Worldwide",
+          "subtitle": "50 tracks - 1 377 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "8f50324ff2cb82136d6235c8647676a9",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13560166481,item_position=1",
+          "id": "13560166481",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 2855,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13560166481",
+            "PLAYLIST_PICTURE": "67d40d1153203337f3dd170db0256dce",
+            "STATUS": 0,
+            "TITLE": "Top Femmes France",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-02 10:08:19",
+            "DATE_ADD": "2025-11-03 10:15:00",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13560166481",
+          "title": "Top Femmes France",
+          "subtitle": "50 tracks - 2 855 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "67d40d1153203337f3dd170db0256dce",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13568614081,item_position=2",
+          "id": "13568614081",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 308,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13568614081",
+            "PLAYLIST_PICTURE": "ea814d86a84d19fa7c49599d77632ce5",
+            "STATUS": 0,
+            "TITLE": "Top Women Germany",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-02 12:25:17",
+            "DATE_ADD": "2025-11-03 14:40:59",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13568614081",
+          "title": "Top Women Germany",
+          "subtitle": "50 tracks - 308 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "ea814d86a84d19fa7c49599d77632ce5",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13578432881,item_position=3",
+          "id": "13578432881",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 1766,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13578432881",
+            "PLAYLIST_PICTURE": "01dccf4b9a0bef1550ad3c41d96100fe",
+            "STATUS": 0,
+            "TITLE": "Top Mulheres Brasil",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-05 18:26:18",
+            "DATE_ADD": "2025-12-05 18:25:53",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13578432881",
+          "title": "Top Mulheres Brasil",
+          "subtitle": "50 tracks - 1 766 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "01dccf4b9a0bef1550ad3c41d96100fe",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13578433401,item_position=4",
+          "id": "13578433401",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 60,
+            "NB_SONG": 53,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13578433401",
+            "PLAYLIST_PICTURE": "15e15040de6ed5e67b2ad06aae04d3fc",
+            "STATUS": 0,
+            "TITLE": "Top Mujeres Chile",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-09 19:18:40",
+            "DATE_ADD": "2025-12-09 19:18:40",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13578433401",
+          "title": "Top Mujeres Chile",
+          "subtitle": "53 tracks - 60 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "15e15040de6ed5e67b2ad06aae04d3fc",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13578433921,item_position=5",
+          "id": "13578433921",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 76,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13578433921",
+            "PLAYLIST_PICTURE": "a74f018121eb080f66cc1ea3075327bd",
+            "STATUS": 0,
+            "TITLE": "Top Mujeres Colombia",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-09 16:24:23",
+            "DATE_ADD": "2025-12-09 16:24:23",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13578433921",
+          "title": "Top Mujeres Colombia",
+          "subtitle": "50 tracks - 76 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "a74f018121eb080f66cc1ea3075327bd",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13578432561,item_position=6",
+          "id": "13578432561",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 72,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13578432561",
+            "PLAYLIST_PICTURE": "91c31da63404e38fbe2ce04642a4b5bc",
+            "STATUS": 0,
+            "TITLE": "Top Mujeres Argentina",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-09 19:41:37",
+            "DATE_ADD": "2025-11-03 18:23:13",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13578432561",
+          "title": "Top Mujeres Argentina",
+          "subtitle": "50 tracks - 72 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "91c31da63404e38fbe2ce04642a4b5bc",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=3,module_id=ca6d5188-73a2-4d1d-9f56-37a3c37ccbae,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_reorder-programming-targeted-module,content_source_count=7,content_programming_count=1,section_content=playlist%3A13562522521%3Bplaylist%3A13560166481%3Bplaylist%3A13568614081%3Bplaylist%3A13578432881%3Bplaylist%3A13578433401%3Bplaylist%3A13578433921%3Bplaylist%3A13578432561%3Bplaylist%3A13578434521,item_type=playlist,item_id=13578434521,item_position=7",
+          "id": "13578434521",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 276,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "13578434521",
+            "PLAYLIST_PICTURE": "d4a17b3d8eb0491835bbd2536f8390b9",
+            "STATUS": 0,
+            "TITLE": "Top Mujeres México",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-09 18:46:21",
+            "DATE_ADD": "2025-12-09 18:46:21",
+            "DESCRIPTION": "Top monthly tracks by female artists",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/13578434521",
+          "title": "Top Mujeres México",
+          "subtitle": "50 tracks - 276 fans",
+          "description": "Top monthly tracks by female artists",
+          "pictures": [
+            {
+              "md5": "d4a17b3d8eb0491835bbd2536f8390b9",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "ca6d5188-73a2-4d1d-9f56-37a3c37ccbae",
+      "title": "Women-only charts",
+      "alignment": "left",
+      "target": "/channels/module/ca6d5188-73a2-4d1d-9f56-37a3c37ccbae",
+      "related": {
+        "target": "/channels/module/ca6d5188-73a2-4d1d-9f56-37a3c37ccbae",
+        "label": "View all",
+        "mandatory": false
+      },
+      "hasMoreItems": false
+    },
+    {
+      "layout": "large-card",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=large-card,section_position=4,module_id=c242c2fa-ab58-4e92-819d-6e3abb988674,module_type=playlists,layout=playlists_layout_large-card,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=1,section_content=playlist%3A10496059222",
+      "group_id": "693e2311e2ac9",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=large-card,section_position=4,module_id=c242c2fa-ab58-4e92-819d-6e3abb988674,module_type=playlists,layout=playlists_layout_large-card,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=1,section_content=playlist%3A10496059222,item_type=playlist,item_id=10496059222,item_position=0",
+          "id": "10496059222",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 4010,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "637006841",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "10496059222",
+            "PLAYLIST_PICTURE": "5d63efea0f4fc66968ad605e4f4410e8",
+            "STATUS": 0,
+            "TITLE": "Top SongCatcher",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-01 01:14:20",
+            "DATE_ADD": "2024-10-01 01:38:15",
+            "DESCRIPTION": "A monthly overview of the most popular songs identified by SongCatcher.",
+            "__TYPE__": "playlist",
+            "PARENT_USERNAME": "Deezer Charts",
+            "PARENT_USER_PICTURE": "63d967d09a48005fbf37464a4ee39405"
+          },
+          "target": "/playlist/10496059222",
+          "title": "Top SongCatcher",
+          "subtitle": "100 tracks - 4 010 fans",
+          "caption": "Playlist featuring Alex Warren, disiz, Vitaa",
+          "description": "A monthly overview of the most popular songs identified by SongCatcher.",
+          "pictures": [
+            {
+              "md5": "5d63efea0f4fc66968ad605e4f4410e8",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "c242c2fa-ab58-4e92-819d-6e3abb988674",
+      "title": "SongCatcher",
+      "alignment": "left",
+      "subtitle": "Most-discovered-songs playlist",
+      "hasMoreItems": false
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904",
+      "group_id": "693e2311e2ad7",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6614422824,item_position=0",
+          "id": "6614422824",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 6701,
+            "NB_SONG": 20,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6614422824",
+            "PLAYLIST_PICTURE": "6e74eaaadf782e5d5eeb400b0acfaaa3",
+            "STATUS": 0,
+            "TITLE": "Trending UK",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:12",
+            "DATE_ADD": "2025-12-13 06:08:12",
+            "DESCRIPTION": "Tracks being searched, added, and streamed the most on Deezer. Updated daily.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6614422824",
+          "title": "Trending UK",
+          "subtitle": "20 tracks - 6 701 fans",
+          "description": "Tracks being searched, added, and streamed the most on Deezer. Updated daily.",
+          "pictures": [
+            {
+              "md5": "6e74eaaadf782e5d5eeb400b0acfaaa3",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6614423884,item_position=1",
+          "id": "6614423884",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 6013,
+            "NB_SONG": 20,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6614423884",
+            "PLAYLIST_PICTURE": "3c6ecd662459f40363bbabdb49bf5c1f",
+            "STATUS": 0,
+            "TITLE": "Trending USA",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:13",
+            "DATE_ADD": "2025-12-13 06:08:13",
+            "DESCRIPTION": "Tracks being searched, added, and streamed the most on Deezer. Updated daily.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6614423884",
+          "title": "Trending USA",
+          "subtitle": "20 tracks - 6 013 fans",
+          "description": "Tracks being searched, added, and streamed the most on Deezer. Updated daily.",
+          "pictures": [
+            {
+              "md5": "3c6ecd662459f40363bbabdb49bf5c1f",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6614396684,item_position=2",
+          "id": "6614396684",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 20143,
+            "NB_SONG": 20,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6614396684",
+            "PLAYLIST_PICTURE": "93d718d332b5f52e372abcfdbe7694fb",
+            "STATUS": 0,
+            "TITLE": "Trending Brazil",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:08",
+            "DATE_ADD": "2025-12-13 06:08:08",
+            "DESCRIPTION": "As faixas mais procuradas, adicionadas e tocadas por streaming na Deezer. Atualizadas diaramente.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6614396684",
+          "title": "Trending Brazil",
+          "subtitle": "20 tracks - 20 143 fans",
+          "description": "As faixas mais procuradas, adicionadas e tocadas por streaming na Deezer. Atualizadas diaramente.",
+          "pictures": [
+            {
+              "md5": "93d718d332b5f52e372abcfdbe7694fb",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6600051404,item_position=3",
+          "id": "6600051404",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 6750,
+            "NB_SONG": 20,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6600051404",
+            "PLAYLIST_PICTURE": "f9981bf0cff1222be34c3012de5804dc",
+            "STATUS": 0,
+            "TITLE": "Trending France",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:08",
+            "DATE_ADD": "2025-12-13 06:08:08",
+            "DESCRIPTION": "Découvrez les titres les plus recherchés, mis en favoris et écoutés sur Deezer. Chaque jour, la playlist est actualisée.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6600051404",
+          "title": "Trending France",
+          "subtitle": "20 tracks - 6 750 fans",
+          "description": "Découvrez les titres les plus recherchés, mis en favoris et écoutés sur Deezer. Chaque jour, la playlist est actualisée.",
+          "pictures": [
+            {
+              "md5": "f9981bf0cff1222be34c3012de5804dc",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6615217164,item_position=4",
+          "id": "6615217164",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 7082,
+            "NB_SONG": 8,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6615217164",
+            "PLAYLIST_PICTURE": "4f4f980f74924d5550ba2f8aaa85c2cc",
+            "STATUS": 0,
+            "TITLE": "Trending Mexico",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:12",
+            "DATE_ADD": "2025-12-13 06:08:12",
+            "DESCRIPTION": "Las canciones más buscadas, agregadas y escuchadas en Deezer con actualización diaria.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6615217164",
+          "title": "Trending Mexico",
+          "subtitle": "8 tracks - 7 082 fans",
+          "description": "Las canciones más buscadas, agregadas y escuchadas en Deezer con actualización diaria.",
+          "pictures": [
+            {
+              "md5": "4f4f980f74924d5550ba2f8aaa85c2cc",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6614398984,item_position=5",
+          "id": "6614398984",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 3425,
+            "NB_SONG": 1,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6614398984",
+            "PLAYLIST_PICTURE": "cf3a330c489499bbf848e2849ca837c2",
+            "STATUS": 0,
+            "TITLE": "Trending Colombia",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:07",
+            "DATE_ADD": "2025-12-09 05:30:07",
+            "DESCRIPTION": "Descubre las canciones favoritas más buscadas y escuchadas en Deezer, actualizadas diariamente.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6614398984",
+          "title": "Trending Colombia",
+          "subtitle": "1 track - 3 425 fans",
+          "description": "Descubre las canciones favoritas más buscadas y escuchadas en Deezer, actualizadas diariamente.",
+          "pictures": [
+            {
+              "md5": "cf3a330c489499bbf848e2849ca837c2",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6614402424,item_position=6",
+          "id": "6614402424",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 895,
+            "NB_SONG": 20,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6614402424",
+            "PLAYLIST_PICTURE": "c529151ba6d0962a4184e8fa0a1ea83d",
+            "STATUS": 0,
+            "TITLE": "Trending Netherlands",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:11",
+            "DATE_ADD": "2025-12-13 06:08:11",
+            "DESCRIPTION": "De meest gezochte, toegevoegde en gestreamde nummers op Deezer. Dagelijks geüpdatet.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6614402424",
+          "title": "Trending Netherlands",
+          "subtitle": "20 tracks - 895 fans",
+          "description": "De meest gezochte, toegevoegde en gestreamde nummers op Deezer. Dagelijks geüpdatet.",
+          "pictures": [
+            {
+              "md5": "c529151ba6d0962a4184e8fa0a1ea83d",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=5,module_id=3dfad500-4801-42a7-a2d7-ecf1d815704e,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_custom,content_source_count=0,content_programming_count=8,section_content=playlist%3A6614422824%3Bplaylist%3A6614423884%3Bplaylist%3A6614396684%3Bplaylist%3A6600051404%3Bplaylist%3A6615217164%3Bplaylist%3A6614398984%3Bplaylist%3A6614402424%3Bplaylist%3A6614400904,item_type=playlist,item_id=6614400904,item_position=7",
+          "id": "6614400904",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 4470,
+            "NB_SONG": 20,
+            "PARENT_USER_ID": "3076673384",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "6614400904",
+            "PLAYLIST_PICTURE": "b270953f3139fe9d88544010cdc495ff",
+            "STATUS": 0,
+            "TITLE": "Trending Germany",
+            "TYPE": "5",
+            "DATE_MOD": "2025-12-13 06:08:10",
+            "DATE_ADD": "2025-12-13 06:08:10",
+            "DESCRIPTION": "Die am häufigsten auf Deezer gesuchten und gehörten Songs. Täglich aktualisiert.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/6614400904",
+          "title": "Trending Germany",
+          "subtitle": "20 tracks - 4 470 fans",
+          "description": "Die am häufigsten auf Deezer gesuchten und gehörten Songs. Täglich aktualisiert.",
+          "pictures": [
+            {
+              "md5": "b270953f3139fe9d88544010cdc495ff",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "3dfad500-4801-42a7-a2d7-ecf1d815704e",
+      "title": "Trending",
+      "alignment": "left",
+      "hasMoreItems": false
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775",
+      "group_id": "693e2311e2af9",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=4507117182,item_position=0",
+          "id": "4507117182",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 12387,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "6328297183",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "4507117182",
+            "PLAYLIST_PICTURE": "2440d5b18067c49c3ecf897eb2dc53ab",
+            "STATUS": 0,
+            "TITLE": "UK Gems",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-12 11:39:04",
+            "DATE_ADD": "2025-12-11 23:05:11",
+            "DESCRIPTION": "The smoothest and most soulful tracks coming out of the UK right now.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/4507117182",
+          "title": "UK Gems",
+          "subtitle": "50 tracks - 12 387 fans",
+          "description": "The smoothest and most soulful tracks coming out of the UK right now.",
+          "pictures": [
+            {
+              "md5": "2440d5b18067c49c3ecf897eb2dc53ab",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=10944004322,item_position=1",
+          "id": "10944004322",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 746,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "304158405",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "10944004322",
+            "PLAYLIST_PICTURE": "c1fcba52df1e496c64c2abb64ef3ed93",
+            "STATUS": 0,
+            "TITLE": "fluorescent",
+            "TYPE": "0",
+            "DATE_MOD": "2025-09-23 11:09:58",
+            "DATE_ADD": "2024-04-25 10:54:13",
+            "DESCRIPTION": "Fresh and trending Alt and Indie Pop tracks in and around the UK. Cover: Rachel Chinouriri",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/10944004322",
+          "title": "fluorescent",
+          "subtitle": "50 tracks - 746 fans",
+          "description": "Fresh and trending Alt and Indie Pop tracks in and around the UK. Cover: Rachel Chinouriri",
+          "pictures": [
+            {
+              "md5": "c1fcba52df1e496c64c2abb64ef3ed93",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=4503899902,item_position=2",
+          "id": "4503899902",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 40811,
+            "NB_SONG": 60,
+            "PARENT_USER_ID": "2834392844",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "4503899902",
+            "PLAYLIST_PICTURE": "fd9d7d810e3293cfb85836f351313014",
+            "STATUS": 0,
+            "TITLE": "Brit Bangers",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-11 23:05:22",
+            "DATE_ADD": "2025-12-11 23:05:22",
+            "DESCRIPTION": "The biggest tracks hitting UK dance floors right now! ",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/4503899902",
+          "title": "Brit Bangers",
+          "subtitle": "60 tracks - 40 811 fans",
+          "description": "The biggest tracks hitting UK dance floors right now! ",
+          "pictures": [
+            {
+              "md5": "fd9d7d810e3293cfb85836f351313014",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=4613753548,item_position=3",
+          "id": "4613753548",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 31671,
+            "NB_SONG": 80,
+            "PARENT_USER_ID": "2834392844",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "4613753548",
+            "PLAYLIST_PICTURE": "9716f3d0dacb4335158bf30398b6c38d",
+            "STATUS": 0,
+            "TITLE": "Dance Essentials",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-08 20:13:56",
+            "DATE_ADD": "2021-04-14 12:06:01",
+            "DESCRIPTION": "Need a dance throwback? Check this huge selection of all-time bangers!",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/4613753548",
+          "title": "Dance Essentials",
+          "subtitle": "80 tracks - 31 671 fans",
+          "description": "Need a dance throwback? Check this huge selection of all-time bangers!",
+          "pictures": [
+            {
+              "md5": "9716f3d0dacb4335158bf30398b6c38d",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=1514808481,item_position=4",
+          "id": "1514808481",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 199366,
+            "NB_SONG": 130,
+            "PARENT_USER_ID": "753566875",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1514808481",
+            "PLAYLIST_PICTURE": "376a0525a3a235e43b5be8b93e03ff61",
+            "STATUS": 0,
+            "TITLE": "Rock Icons Now",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-13 00:21:19",
+            "DATE_ADD": "2025-12-05 00:02:46",
+            "DESCRIPTION": "Still rocking on! New songs & rarities from your favourite icons.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1514808481",
+          "title": "Rock Icons Now",
+          "subtitle": "130 tracks - 199 366 fans",
+          "description": "Still rocking on! New songs & rarities from your favourite icons.",
+          "pictures": [
+            {
+              "md5": "376a0525a3a235e43b5be8b93e03ff61",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=1962379246,item_position=5",
+          "id": "1962379246",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 92642,
+            "NB_SONG": 53,
+            "PARENT_USER_ID": "796271495",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1962379246",
+            "PLAYLIST_PICTURE": "02902aa57e0ff266a788b443966f2da3",
+            "STATUS": 0,
+            "TITLE": "Disney Hits",
+            "TYPE": "0",
+            "DATE_MOD": "2025-11-04 11:07:00",
+            "DATE_ADD": "2024-01-04 09:58:51",
+            "DESCRIPTION": "It's a small world!",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1962379246",
+          "title": "Disney Hits",
+          "subtitle": "53 tracks - 92 642 fans",
+          "description": "It's a small world!",
+          "pictures": [
+            {
+              "md5": "02902aa57e0ff266a788b443966f2da3",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=1130102843,item_position=6",
+          "id": "1130102843",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 101745,
+            "NB_SONG": 81,
+            "PARENT_USER_ID": "4294642822",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1130102843",
+            "PLAYLIST_PICTURE": "75ab7d2f19debd8c6716d32553584ea8",
+            "STATUS": 0,
+            "TITLE": "Country Hits",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-02 10:33:22",
+            "DATE_ADD": "2025-11-28 01:20:10",
+            "DESCRIPTION": "The biggest country hits in one playlist!",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1130102843",
+          "title": "Country Hits",
+          "subtitle": "81 tracks - 101 745 fans",
+          "description": "The biggest country hits in one playlist!",
+          "pictures": [
+            {
+              "md5": "75ab7d2f19debd8c6716d32553584ea8",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=5014647904,item_position=7",
+          "id": "5014647904",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 84489,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "2928001764",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "5014647904",
+            "PLAYLIST_PICTURE": "2533d10a08a50073f3d12a5e58d2f71a",
+            "STATUS": 0,
+            "TITLE": "Hot R&B",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-08 11:21:15",
+            "DATE_ADD": "2025-12-08 11:21:15",
+            "DESCRIPTION": "The biggest and the best R&B songs around right now.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/5014647904",
+          "title": "Hot R&B",
+          "subtitle": "50 tracks - 84 489 fans",
+          "description": "The biggest and the best R&B songs around right now.",
+          "pictures": [
+            {
+              "md5": "2533d10a08a50073f3d12a5e58d2f71a",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=1950512362,item_position=8",
+          "id": "1950512362",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 175161,
+            "NB_SONG": 51,
+            "PARENT_USER_ID": "2834392844",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1950512362",
+            "PLAYLIST_PICTURE": "d1e4b5b3f93d36b9f91ed62a004a725e",
+            "STATUS": 0,
+            "TITLE": "Dance Pop",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-11 21:48:43",
+            "DATE_ADD": "2025-12-11 21:48:43",
+            "DESCRIPTION": "The biggest EDM pop crossover tracks out there.",
+            "__TYPE__": "playlist"
+          },
+          "target": "/playlist/1950512362",
+          "title": "Dance Pop",
+          "subtitle": "51 tracks - 175 161 fans",
+          "description": "The biggest EDM pop crossover tracks out there.",
+          "pictures": [
+            {
+              "md5": "d1e4b5b3f93d36b9f91ed62a004a725e",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=8454338222,item_position=9",
+          "id": "8454338222",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 62009,
+            "NB_SONG": 50,
+            "PARENT_USER_ID": "753546365",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "8454338222",
+            "PLAYLIST_PICTURE": "d2ea6cd34136caa84a0f95f5ab4a85e0",
+            "STATUS": 0,
+            "TITLE": "Christmas Hits",
+            "TYPE": "0",
+            "DATE_MOD": "2025-11-08 21:13:55",
+            "DATE_ADD": "2023-10-03 14:44:33",
+            "DESCRIPTION": "50 Christmas crackers to soundtrack that festive feeling!",
+            "__TYPE__": "playlist",
+            "__PAYLOAD__": {
+              "CURATOR_TYPE": 1
+            }
+          },
+          "target": "/playlist/8454338222",
+          "title": "Christmas Hits",
+          "subtitle": "50 tracks - 62 009 fans",
+          "description": "50 Christmas crackers to soundtrack that festive feeling!",
+          "pictures": [
+            {
+              "md5": "d2ea6cd34136caa84a0f95f5ab4a85e0",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=3773404202,item_position=10",
+          "id": "3773404202",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 67376,
+            "NB_SONG": 100,
+            "PARENT_USER_ID": "846571671",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "3773404202",
+            "PLAYLIST_PICTURE": "6fd8da18439146b38a344fa90f57462e",
+            "STATUS": 0,
+            "TITLE": "Christmas Classics",
+            "TYPE": "0",
+            "DATE_MOD": "2025-11-19 10:16:15",
+            "DATE_ADD": "2022-12-05 11:14:40",
+            "DESCRIPTION": "The ultimate collection of original Christmas classics!",
+            "__TYPE__": "playlist",
+            "__PAYLOAD__": {
+              "CURATOR_TYPE": 1
+            }
+          },
+          "target": "/playlist/3773404202",
+          "title": "Christmas Classics",
+          "subtitle": "100 tracks - 67 376 fans",
+          "description": "The ultimate collection of original Christmas classics!",
+          "pictures": [
+            {
+              "md5": "6fd8da18439146b38a344fa90f57462e",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=6,module_id=3d720c8b-6256-4731-8f2f-28fafc60d0e1,module_type=playlists,layout=playlists_layout_horizontal-grid,content_source=playlists_content-source_targeted-module,content_source_count=12,content_programming_count=0,section_content=playlist%3A4507117182%3Bplaylist%3A10944004322%3Bplaylist%3A4503899902%3Bplaylist%3A4613753548%3Bplaylist%3A1514808481%3Bplaylist%3A1962379246%3Bplaylist%3A1130102843%3Bplaylist%3A5014647904%3Bplaylist%3A1950512362%3Bplaylist%3A8454338222%3Bplaylist%3A3773404202%3Bplaylist%3A1460134775,item_type=playlist,item_id=1460134775,item_position=11",
+          "id": "1460134775",
+          "type": "playlist",
+          "alignment": "left",
+          "data": {
+            "NB_FAN": 18428,
+            "NB_SONG": 96,
+            "PARENT_USER_ID": "643790541",
+            "PICTURE_TYPE": "playlist",
+            "PLAYLIST_ID": "1460134775",
+            "PLAYLIST_PICTURE": "56a1780718e57617cc569c6318b098c4",
+            "STATUS": 0,
+            "TITLE": "100 Greatest Christmas Songs Ever",
+            "TYPE": "0",
+            "DATE_MOD": "2025-12-08 10:36:24",
+            "DATE_ADD": "2025-09-04 11:40:37",
+            "DESCRIPTION": "Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Wei",
+            "__TYPE__": "playlist",
+            "__PAYLOAD__": {
+              "CURATOR_TYPE": 2
+            }
+          },
+          "target": "/playlist/1460134775",
+          "title": "100 Greatest Christmas Songs Ever",
+          "subtitle": "96 tracks - 18 428 fans",
+          "description": "Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Wei",
+          "pictures": [
+            {
+              "md5": "56a1780718e57617cc569c6318b098c4",
+              "type": "playlist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "3d720c8b-6256-4731-8f2f-28fafc60d0e1",
+      "title": "Popular playlists",
+      "alignment": "left",
+      "target": "/channels/module/3d720c8b-6256-4731-8f2f-28fafc60d0e1",
+      "related": {
+        "target": "/channels/module/3d720c8b-6256-4731-8f2f-28fafc60d0e1",
+        "label": "View all",
+        "mandatory": false
+      },
+      "hasMoreItems": true
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927",
+      "group_id": "693e2311e2b26",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=12246,item_position=0",
+          "id": "12246",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "12246",
+            "ART_NAME": "Taylor Swift",
+            "URL_REWRITING": "taylor-swift",
+            "ART_PICTURE": "e528e270424103b527f8a27ac625563b",
+            "NB_FAN": 12239886,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_en": {
+                "name": "Taylor Swift"
+              },
+              "lang_ja-hrkt": {
+                "name": "テイラースウィフト"
+              },
+              "lang_ja-jpan": {
+                "name": "Taylor Swift"
+              },
+              "lang_ar": {
+                "name": "تايلور سويفت"
+              },
+              "lang_he": {
+                "name": "טיילור סוויפט"
+              },
+              "lang_fr": {
+                "name": "Taylor Swift"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/12246",
+          "title": "Taylor Swift",
+          "subtitle": "12 239 886 fans",
+          "pictures": [
+            {
+              "md5": "e528e270424103b527f8a27ac625563b",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=1478,item_position=1",
+          "id": "1478",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "1478",
+            "ART_NAME": "Michael Bublé",
+            "URL_REWRITING": "michael-buble",
+            "ART_PICTURE": "0a2596f41ea75f8e11e5c7e534f2a26f",
+            "NB_FAN": 1558246,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_en": {
+                "name": "Michael Bublé"
+              },
+              "lang_ja-hrkt": {
+                "name": "マイケルブーブレ"
+              },
+              "lang_ja-jpan": {
+                "name": "マイケル・ブーブレ"
+              },
+              "lang_ja-kana": {
+                "name": "マイケルブーブレ"
+              },
+              "lang_ar": {
+                "name": "مايكل بوبليه"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/1478",
+          "title": "Michael Bublé",
+          "subtitle": "1 558 246 fans",
+          "pictures": [
+            {
+              "md5": "0a2596f41ea75f8e11e5c7e534f2a26f",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=75659582,item_position=2",
+          "id": "75659582",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "75659582",
+            "ART_NAME": "Olivia Dean",
+            "URL_REWRITING": "",
+            "ART_PICTURE": "fed7c3b756cf6049da62988cb8e744be",
+            "NB_FAN": 62747,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_en": {
+                "name": "Olivia Dean"
+              },
+              "lang_ja-hrkt": {
+                "name": "オリビアディーン"
+              },
+              "lang_ja-jpan": {
+                "name": "オリヴィア・ディーン"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/75659582",
+          "title": "Olivia Dean",
+          "subtitle": "62 747 fans",
+          "pictures": [
+            {
+              "md5": "fed7c3b756cf6049da62988cb8e744be",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=384236,item_position=3",
+          "id": "384236",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "384236",
+            "ART_NAME": "Ed Sheeran",
+            "URL_REWRITING": "ed-sheeran",
+            "ART_PICTURE": "d6bb84390641d8ae9118228d9544e53d",
+            "NB_FAN": 20608009,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_ja-jpan": {
+                "name": "Ed Sheeran"
+              },
+              "lang_en": {
+                "name": "Ed Sheeran"
+              },
+              "lang_ja-hrkt": {
+                "name": "エドシーラン"
+              },
+              "lang_fr": {
+                "name": "Ed Sheeran"
+              },
+              "lang_ja-kana": {
+                "name": "エド　シーラン"
+              },
+              "lang_ja": {
+                "name": "ED SHEERAN"
+              },
+              "lang_ar": {
+                "name": "اد شيران"
+              },
+              "lang_ja-latn": {
+                "name": "Ed Sheeran"
+              },
+              "lang_zh-latn": {
+                "name": "Ed Sheeran"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/384236",
+          "title": "Ed Sheeran",
+          "subtitle": "20 608 009 fans",
+          "pictures": [
+            {
+              "md5": "d6bb84390641d8ae9118228d9544e53d",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=1176900,item_position=4",
+          "id": "1176900",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "1176900",
+            "ART_NAME": "Sabrina Carpenter",
+            "URL_REWRITING": "sabrina-carpenter",
+            "ART_PICTURE": "4a9cdc7737e2a0e59b4917b47884b859",
+            "NB_FAN": 1601329,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_en": {
+                "name": "Sabrina Carpenter"
+              },
+              "lang_ja-hrkt": {
+                "name": "サブリナカーペンター"
+              },
+              "lang_ja-jpan": {
+                "name": "サブリナ・カーペンター"
+              },
+              "lang_ja-kana": {
+                "name": "サブリナ　カーペンター"
+              },
+              "lang_ar": {
+                "name": "سابرينا كاربنتر"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/1176900",
+          "title": "Sabrina Carpenter",
+          "subtitle": "1 601 329 fans",
+          "pictures": [
+            {
+              "md5": "4a9cdc7737e2a0e59b4917b47884b859",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=892,item_position=5",
+          "id": "892",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "892",
+            "ART_NAME": "Coldplay",
+            "URL_REWRITING": "coldplay",
+            "ART_PICTURE": "3087954bca22f306324912e5ac8375c3",
+            "NB_FAN": 18055743,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_ja-jpan": {
+                "name": "コールドプレイ"
+              },
+              "lang_ja-hrkt": {
+                "name": "コールドプレイ"
+              },
+              "lang_en": {
+                "name": "Coldplay"
+              },
+              "lang_ar": {
+                "name": "كولدبلاي"
+              },
+              "lang_he": {
+                "name": "קולדפליי"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/892",
+          "title": "Coldplay",
+          "subtitle": "18 055 743 fans",
+          "pictures": [
+            {
+              "md5": "3087954bca22f306324912e5ac8375c3",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=13,item_position=6",
+          "id": "13",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "13",
+            "ART_NAME": "Eminem",
+            "URL_REWRITING": "eminem",
+            "ART_PICTURE": "0f30bbd33a680030054af004d698d6ac",
+            "NB_FAN": 18692165,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_en": {
+                "name": "Eminem"
+              },
+              "lang_ja-hrkt": {
+                "name": "エミネム"
+              },
+              "lang_ja-jpan": {
+                "name": "エミネム"
+              },
+              "lang_ja-kana": {
+                "name": "エミネム"
+              },
+              "lang_ar": {
+                "name": "إمينيم"
+              },
+              "lang_zh-latn": {
+                "name": "Eminem"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/13",
+          "title": "Eminem",
+          "subtitle": "18 692 165 fans",
+          "pictures": [
+            {
+              "md5": "0f30bbd33a680030054af004d698d6ac",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=1562681,item_position=7",
+          "id": "1562681",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "1562681",
+            "ART_NAME": "Ariana Grande",
+            "URL_REWRITING": "ariana-grande",
+            "ART_PICTURE": "5fcde7fde7cde95fc36d4576afcfb49f",
+            "NB_FAN": 13193281,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_en": {
+                "name": "Ariana Grande"
+              },
+              "lang_ja-hrkt": {
+                "name": "アリアナグランデ"
+              },
+              "lang_ja-jpan": {
+                "name": "アリアナ・グランデ"
+              },
+              "lang_ar": {
+                "name": "أريانا جراندي"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/1562681",
+          "title": "Ariana Grande",
+          "subtitle": "13 193 281 fans",
+          "pictures": [
+            {
+              "md5": "5fcde7fde7cde95fc36d4576afcfb49f",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=246791,item_position=8",
+          "id": "246791",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "246791",
+            "ART_NAME": "Drake",
+            "URL_REWRITING": "drake",
+            "ART_PICTURE": "5d2fa7f140a6bdc2c864c3465a61fc71",
+            "NB_FAN": 23796041,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_ja-jpan": {
+                "name": "Drake"
+              },
+              "lang_ja-kana": {
+                "name": "ドレイク"
+              },
+              "lang_en": {
+                "name": "Drake"
+              },
+              "lang_ja-hrkt": {
+                "name": "ドレイク"
+              },
+              "lang_zh-latn": {
+                "name": "Drake"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/246791",
+          "title": "Drake",
+          "subtitle": "23 796 041 fans",
+          "pictures": [
+            {
+              "md5": "5d2fa7f140a6bdc2c864c3465a61fc71",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=65,item_position=9",
+          "id": "65",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "65",
+            "ART_NAME": "Mariah Carey",
+            "URL_REWRITING": "mariah-carey",
+            "ART_PICTURE": "818c27b3e5a6179d4cd2f053df9abaf1",
+            "NB_FAN": 3362535,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_ja-jpan": {
+                "name": "MARIAH CAREY"
+              },
+              "lang_ja-kana": {
+                "name": "マライアキャリー"
+              },
+              "lang_zh-hant": {
+                "name": "瑪麗亞凱莉"
+              },
+              "lang_en": {
+                "name": "Mariah Carey"
+              },
+              "lang_ja-hrkt": {
+                "name": "マライアキャリー"
+              },
+              "lang_ja": {
+                "name": "MARIAH CAREY"
+              },
+              "lang_ar": {
+                "name": "ماريا كاري"
+              },
+              "lang_ja-hani": {
+                "name": "MARIAH CAREY"
+              },
+              "lang_fr": {
+                "name": "Mariah Carey"
+              },
+              "lang_ja-latn": {
+                "name": "Mariah Carey"
+              },
+              "lang_zh-latn": {
+                "name": "Mariah Carey"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/65",
+          "title": "Mariah Carey",
+          "subtitle": "3 362 535 fans",
+          "pictures": [
+            {
+              "md5": "818c27b3e5a6179d4cd2f053df9abaf1",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=145468192,item_position=10",
+          "id": "145468192",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "145468192",
+            "ART_NAME": "sombr",
+            "URL_REWRITING": "",
+            "ART_PICTURE": "82ef9a2db0c80f8588569d955c78d695",
+            "NB_FAN": 98307,
+            "SMARTRADIO": 1,
+            "LOCALES": [],
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/145468192",
+          "title": "sombr",
+          "subtitle": "98 307 fans",
+          "pictures": [
+            {
+              "md5": "82ef9a2db0c80f8588569d955c78d695",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=7,module_id=ca9f3e84-8d71-47e6-9b2a-f77709691cf9,module_type=artist,layout=artist_layout_horizontal-grid,content_source=artist_content-source_charts,content_source_version=default,content_source_count=12,content_programming_count=0,section_content=artist%3A12246%3Bartist%3A1478%3Bartist%3A75659582%3Bartist%3A384236%3Bartist%3A1176900%3Bartist%3A892%3Bartist%3A13%3Bartist%3A1562681%3Bartist%3A246791%3Bartist%3A65%3Bartist%3A145468192%3Bartist%3A927,item_type=artist,item_id=927,item_position=11",
+          "id": "927",
+          "type": "artist",
+          "alignment": "left",
+          "data": {
+            "ART_ID": "927",
+            "ART_NAME": "Oasis",
+            "URL_REWRITING": "oasis",
+            "ART_PICTURE": "07a91a26e61c06353797329c7c6a4b15",
+            "NB_FAN": 4580034,
+            "SMARTRADIO": 1,
+            "LOCALES": {
+              "lang_ja-jpan": {
+                "name": "Oasis"
+              },
+              "lang_ja-kana": {
+                "name": "オアシス"
+              },
+              "lang_zh-hans": {
+                "name": "绿洲合唱团"
+              },
+              "lang_zh-hant": {
+                "name": "綠洲合唱團"
+              },
+              "lang_ja-hrkt": {
+                "name": "オアシス"
+              },
+              "lang_en": {
+                "name": "Oasis"
+              },
+              "lang_ar": {
+                "name": "اويسس"
+              },
+              "lang_ja-hani": {
+                "name": "OASIS"
+              }
+            },
+            "__TYPE__": "artist"
+          },
+          "target": "/artist/927",
+          "title": "Oasis",
+          "subtitle": "4 580 034 fans",
+          "pictures": [
+            {
+              "md5": "07a91a26e61c06353797329c7c6a4b15",
+              "type": "artist"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "ca9f3e84-8d71-47e6-9b2a-f77709691cf9",
+      "title": "Most-streamed artists",
+      "alignment": "left",
+      "target": "/channels/module/ca9f3e84-8d71-47e6-9b2a-f77709691cf9",
+      "related": {
+        "target": "/channels/module/ca9f3e84-8d71-47e6-9b2a-f77709691cf9",
+        "label": "View all",
+        "mandatory": false
+      },
+      "hasMoreItems": true
+    },
+    {
+      "layout": "horizontal-grid",
+      "section_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086",
+      "group_id": "693e2311e2b57",
+      "items": [
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=870791762,item_position=0",
+          "id": "870791762",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "870791762",
+            "ALB_PICTURE": "5dc8ab621a0ac3e51a9605c4d872879a",
+            "ALB_TITLE": "Wish You Were Here 50",
+            "ART_ID": "860",
+            "ART_NAME": "Pink Floyd",
+            "ORIGINAL_RELEASE_DATE": "2025-12-12",
+            "DIGITAL_RELEASE_DATE": "2025-12-12",
+            "PHYSICAL_RELEASE_DATE": "2025-12-12",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 4,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/870791762",
+          "title": "Wish You Were Here 50",
+          "subtitle": "by Pink Floyd",
+          "description": "Pink Floyd",
+          "pictures": [
+            {
+              "md5": "5dc8ab621a0ac3e51a9605c4d872879a",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=874642942,item_position=1",
+          "id": "874642942",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "874642942",
+            "ALB_PICTURE": "e92407d1fcc02a9fb67da5e0c0109c57",
+            "ALB_TITLE": "Light-Years",
+            "ART_ID": "73",
+            "ART_NAME": "Nas",
+            "ORIGINAL_RELEASE_DATE": "2025-12-12",
+            "DIGITAL_RELEASE_DATE": "2025-12-12",
+            "PHYSICAL_RELEASE_DATE": "2025-12-12",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 1,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/874642942",
+          "title": "Light-Years",
+          "subtitle": "by Nas",
+          "description": "Nas",
+          "pictures": [
+            {
+              "md5": "e92407d1fcc02a9fb67da5e0c0109c57",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=875564232,item_position=2",
+          "id": "875564232",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "875564232",
+            "ALB_PICTURE": "28695698ee1f8a576e05ad8d69c430ce",
+            "ALB_TITLE": "WHAT HAPPENED TO THE STREETS?",
+            "ART_ID": "6853403",
+            "ART_NAME": "21 Savage",
+            "ORIGINAL_RELEASE_DATE": "2025-12-12",
+            "DIGITAL_RELEASE_DATE": "2025-12-12",
+            "PHYSICAL_RELEASE_DATE": "2025-12-12",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 1,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/875564232",
+          "title": "WHAT HAPPENED TO THE STREETS?",
+          "subtitle": "by 21 Savage",
+          "description": "21 Savage",
+          "pictures": [
+            {
+              "md5": "28695698ee1f8a576e05ad8d69c430ce",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=866933012,item_position=3",
+          "id": "866933012",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "866933012",
+            "ALB_PICTURE": "f8f0275e1786993fa7c292b6b43aadbc",
+            "ALB_TITLE": "Marche au pays réel",
+            "ART_ID": "1388852",
+            "ART_NAME": "Pierre-Yves Martel",
+            "ORIGINAL_RELEASE_DATE": "2025-11-29",
+            "DIGITAL_RELEASE_DATE": "2025-11-29",
+            "PHYSICAL_RELEASE_DATE": "2025-11-29",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 0,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/866933012",
+          "title": "Marche au pays réel",
+          "subtitle": "by Pierre-Yves Martel",
+          "description": "Pierre-Yves Martel",
+          "pictures": [
+            {
+              "md5": "f8f0275e1786993fa7c292b6b43aadbc",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=873727102,item_position=4",
+          "id": "873727102",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "873727102",
+            "ALB_PICTURE": "1a6d006404b7486e1f33f4a266771682",
+            "ALB_TITLE": "USB",
+            "ART_ID": "76053262",
+            "ART_NAME": "Fred again..",
+            "ORIGINAL_RELEASE_DATE": "2025-12-12",
+            "DIGITAL_RELEASE_DATE": "2025-12-12",
+            "PHYSICAL_RELEASE_DATE": "2025-12-12",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": true,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 4,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/873727102",
+          "title": "USB",
+          "subtitle": "by Fred again..",
+          "description": "Fred again..",
+          "pictures": [
+            {
+              "md5": "1a6d006404b7486e1f33f4a266771682",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=858830932,item_position=5",
+          "id": "858830932",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "858830932",
+            "ALB_PICTURE": "b84e3b2ac2e7a2f32cf633402cd8994d",
+            "ALB_TITLE": "Wicked: For Good – The Soundtrack",
+            "ART_ID": "290325281",
+            "ART_NAME": "Wicked Movie Cast",
+            "ORIGINAL_RELEASE_DATE": "2025-11-21",
+            "DIGITAL_RELEASE_DATE": "2025-11-21",
+            "PHYSICAL_RELEASE_DATE": "2025-11-21",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": true,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 0,
+              "EXPLICIT_COVER_STATUS": 0
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/858830932",
+          "title": "Wicked: For Good – The Soundtrack",
+          "subtitle": "by Wicked Movie Cast",
+          "description": "Wicked Movie Cast",
+          "pictures": [
+            {
+              "md5": "b84e3b2ac2e7a2f32cf633402cd8994d",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=869761592,item_position=6",
+          "id": "869761592",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "869761592",
+            "ALB_PICTURE": "cbece273781ad75851cb62a87fe877e2",
+            "ALB_TITLE": "Half Clip",
+            "ART_ID": "8657430",
+            "ART_NAME": "J Hus",
+            "ORIGINAL_RELEASE_DATE": "2025-12-11",
+            "DIGITAL_RELEASE_DATE": "2025-12-11",
+            "PHYSICAL_RELEASE_DATE": "2025-12-11",
+            "TYPE": "0",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 1,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/869761592",
+          "title": "Half Clip",
+          "subtitle": "by J Hus",
+          "description": "J Hus",
+          "pictures": [
+            {
+              "md5": "cbece273781ad75851cb62a87fe877e2",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=771853201,item_position=7",
+          "id": "771853201",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "771853201",
+            "ALB_PICTURE": "e54bda0628749119f7a9a05b71b40283",
+            "ALB_TITLE": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+            "ART_ID": "330311451",
+            "ART_NAME": "KPop Demon Hunters Cast",
+            "ORIGINAL_RELEASE_DATE": "2025-06-20",
+            "DIGITAL_RELEASE_DATE": "2025-06-20",
+            "PHYSICAL_RELEASE_DATE": "2025-06-20",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": true,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 0,
+              "EXPLICIT_COVER_STATUS": 0
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/771853201",
+          "title": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+          "subtitle": "by KPop Demon Hunters Cast",
+          "description": "KPop Demon Hunters Cast",
+          "pictures": [
+            {
+              "md5": "e54bda0628749119f7a9a05b71b40283",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=869791432,item_position=8",
+          "id": "869791432",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "869791432",
+            "ALB_PICTURE": "8c02c99cd7a3ddfa0d901598ff1a324a",
+            "ALB_TITLE": "Memento Mori: Mexico City",
+            "ART_ID": "545",
+            "ART_NAME": "Depeche Mode",
+            "ORIGINAL_RELEASE_DATE": "2025-12-05",
+            "DIGITAL_RELEASE_DATE": "2025-12-05",
+            "PHYSICAL_RELEASE_DATE": "2025-12-05",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": true,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 0,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/869791432",
+          "title": "Memento Mori: Mexico City",
+          "subtitle": "by Depeche Mode",
+          "description": "Depeche Mode",
+          "pictures": [
+            {
+              "md5": "8c02c99cd7a3ddfa0d901598ff1a324a",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=859234022,item_position=9",
+          "id": "859234022",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "859234022",
+            "ALB_PICTURE": "0a148154557bbb2e82d4c5bd003fc60a",
+            "ALB_TITLE": "You Can't Kill God With Bullets",
+            "ART_ID": "9749880",
+            "ART_NAME": "Conway the Machine",
+            "ORIGINAL_RELEASE_DATE": "2025-12-12",
+            "DIGITAL_RELEASE_DATE": "2025-12-12",
+            "PHYSICAL_RELEASE_DATE": "2025-12-12",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 1,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/859234022",
+          "title": "You Can't Kill God With Bullets",
+          "subtitle": "by Conway the Machine",
+          "description": "Conway the Machine",
+          "pictures": [
+            {
+              "md5": "0a148154557bbb2e82d4c5bd003fc60a",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=842715522,item_position=10",
+          "id": "842715522",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "842715522",
+            "ALB_PICTURE": "76fbc54aee652fff45ebc68cfb6c4d1a",
+            "ALB_TITLE": "West End Girl",
+            "ART_ID": "4607",
+            "ART_NAME": "Lily Allen",
+            "ORIGINAL_RELEASE_DATE": "2025-10-24",
+            "DIGITAL_RELEASE_DATE": "2025-10-24",
+            "PHYSICAL_RELEASE_DATE": "2025-10-24",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 4,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/842715522",
+          "title": "West End Girl",
+          "subtitle": "by Lily Allen",
+          "description": "Lily Allen",
+          "pictures": [
+            {
+              "md5": "76fbc54aee652fff45ebc68cfb6c4d1a",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        },
+        {
+          "item_id": "page_id=channels/charts,render_id=019b1ab8-fdd0-71b0-884e-d88b909f2de2,version=channel-cms.1.0,section_id=horizontal-grid,section_position=8,module_id=24edc1b8-68cd-411f-b6ef-ce4972b9f671,module_type=album,layout=album_layout_horizontal-grid,content_source=album_content-source_charts,content_source_count=12,content_programming_count=0,section_content=album%3A870791762%3Balbum%3A874642942%3Balbum%3A875564232%3Balbum%3A866933012%3Balbum%3A873727102%3Balbum%3A858830932%3Balbum%3A869761592%3Balbum%3A771853201%3Balbum%3A869791432%3Balbum%3A859234022%3Balbum%3A842715522%3Balbum%3A11244086,item_type=album,item_id=11244086,item_position=11",
+          "id": "11244086",
+          "type": "album",
+          "alignment": "left",
+          "data": {
+            "ALB_ID": "11244086",
+            "ALB_PICTURE": "1caa88583f24c9477fbb680cf7b1b8e8",
+            "ALB_TITLE": "Hamilton (Original Broadway Cast Recording)",
+            "ART_ID": "1545788",
+            "ART_NAME": "Lin-Manuel Miranda",
+            "ORIGINAL_RELEASE_DATE": "2015-09-25",
+            "DIGITAL_RELEASE_DATE": "2015-09-25",
+            "PHYSICAL_RELEASE_DATE": "2015-09-25",
+            "TYPE": "1",
+            "SUBTYPES": {
+              "isStudio": false,
+              "isLive": false,
+              "isCompilation": false,
+              "isKaraoke": false
+            },
+            "AVAILABLE": true,
+            "EXPLICIT_ALBUM_CONTENT": {
+              "EXPLICIT_LYRICS_STATUS": 4,
+              "EXPLICIT_COVER_STATUS": 2
+            },
+            "__TYPE__": "album"
+          },
+          "target": "/album/11244086",
+          "title": "Hamilton (Original Broadway Cast Recording)",
+          "subtitle": "by Lin-Manuel Miranda",
+          "description": "Lin-Manuel Miranda",
+          "pictures": [
+            {
+              "md5": "1caa88583f24c9477fbb680cf7b1b8e8",
+              "type": "cover"
+            }
+          ],
+          "layout_parameters": {
+            "cta": {
+              "type": "play",
+              "label": "PLAY"
+            }
+          }
+        }
+      ],
+      "module_id": "24edc1b8-68cd-411f-b6ef-ce4972b9f671",
+      "title": "Most-streamed albums",
+      "alignment": "left",
+      "target": "/channels/module/24edc1b8-68cd-411f-b6ef-ce4972b9f671",
+      "related": {
+        "target": "/channels/module/24edc1b8-68cd-411f-b6ef-ce4972b9f671",
+        "label": "View all",
+        "mandatory": false
+      },
+      "hasMoreItems": true
+    }
+  ],
+  "expire": 1765688538
+}

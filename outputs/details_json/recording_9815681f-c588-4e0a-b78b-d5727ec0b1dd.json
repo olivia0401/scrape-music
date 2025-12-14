@@ -1,0 +1,302 @@
+{
+  "rating": {
+    "value": null,
+    "votes-count": 0
+  },
+  "tags": [],
+  "length": null,
+  "disambiguation": "live, 2001-08-16: Liberty State Park, Jersey City, NJ, USA",
+  "id": "9815681f-c588-4e0a-b78b-d5727ec0b1dd",
+  "video": false,
+  "releases": [
+    {
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "packaging": null,
+      "id": "60c21e76-247e-4d2b-8f1c-d913908da897",
+      "artist-credit": [
+        {
+          "artist": {
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "name": "alternative rock",
+                "count": 39
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "name": "british",
+                "count": 12
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "count": 1
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ],
+            "type": "Group",
+            "genres": [
+              {
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "disambiguation": "",
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "count": 2,
+                "disambiguation": "",
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "count": 25,
+                "disambiguation": "",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+              },
+              {
+                "name": "electronic",
+                "count": 11,
+                "disambiguation": "",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+              },
+              {
+                "count": 1,
+                "disambiguation": "",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica"
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "name": "experimental"
+              },
+              {
+                "name": "experimental rock",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "disambiguation": "",
+                "count": 12
+              },
+              {
+                "count": 3,
+                "disambiguation": "",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "disambiguation": "",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "name": "post-britpop"
+              },
+              {
+                "name": "rock",
+                "count": 16,
+                "disambiguation": "",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "name": "Radiohead",
+            "country": "GB",
+            "disambiguation": "",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "sort-name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "joinphrase": "",
+          "name": "Radiohead"
+        }
+      ],
+      "title": "2001-08-16: Liberty State Park, Jersey City, NJ, USA",
+      "tags": [],
+      "packaging-id": null,
+      "barcode": null,
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "genres": [],
+      "status": "Bootleg"
+    }
+  ],
+  "genres": [],
+  "title": "True Love Waits",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "type": "Group",
+        "genres": [
+          {
+            "name": "alternative rock",
+            "disambiguation": "",
+            "count": 39,
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+          },
+          {
+            "name": "art pop",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "count": 2,
+            "disambiguation": ""
+          },
+          {
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "count": 25,
+            "disambiguation": "",
+            "name": "art rock"
+          },
+          {
+            "name": "electronic",
+            "count": 11,
+            "disambiguation": "",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+          },
+          {
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "disambiguation": "",
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "name": "experimental",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "count": 1,
+            "disambiguation": ""
+          },
+          {
+            "count": 12,
+            "disambiguation": "",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock"
+          },
+          {
+            "name": "indie rock",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "disambiguation": "",
+            "count": 3
+          },
+          {
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "disambiguation": "",
+            "count": 1,
+            "name": "post-britpop"
+          },
+          {
+            "count": 16,
+            "disambiguation": "",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "name": "rock"
+          }
+        ],
+        "name": "Radiohead",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Radiohead",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "country": "GB",
+        "disambiguation": "",
+        "tags": [
+          {
+            "name": "alternative",
+            "count": 1
+          },
+          {
+            "name": "alternative rock",
+            "count": 39
+          },
+          {
+            "name": "alternative rock music",
+            "count": 1
+          },
+          {
+            "count": 2,
+            "name": "art pop"
+          },
+          {
+            "count": 25,
+            "name": "art rock"
+          },
+          {
+            "name": "british",
+            "count": 12
+          },
+          {
+            "count": 11,
+            "name": "electronic"
+          },
+          {
+            "name": "electronica",
+            "count": 1
+          },
+          {
+            "name": "experimental",
+            "count": 1
+          },
+          {
+            "count": 12,
+            "name": "experimental rock"
+          },
+          {
+            "count": 3,
+            "name": "indie rock"
+          },
+          {
+            "name": "post-britpop",
+            "count": 1
+          },
+          {
+            "name": "progressive rock music",
+            "count": 1
+          },
+          {
+            "name": "rock",
+            "count": 16
+          }
+        ]
+      },
+      "name": "Radiohead"
+    }
+  ]
+}

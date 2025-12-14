@@ -1,0 +1,825 @@
+{
+  "artist-credit": [
+    {
+      "name": "Radiohead",
+      "joinphrase": "",
+      "artist": {
+        "genres": [
+          {
+            "disambiguation": "",
+            "name": "alternative rock",
+            "count": 39,
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+          },
+          {
+            "name": "art pop",
+            "count": 2,
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock",
+            "count": 25
+          },
+          {
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "count": 11,
+            "name": "electronic",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "disambiguation": "",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "count": 1,
+            "name": "experimental"
+          },
+          {
+            "count": 12,
+            "name": "experimental rock",
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock",
+            "count": 3
+          },
+          {
+            "disambiguation": "",
+            "name": "post-britpop",
+            "count": 1,
+            "id": "a493b79c-4072-4371-a14c-446b1027982a"
+          },
+          {
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "count": 16,
+            "name": "rock",
+            "disambiguation": ""
+          }
+        ],
+        "type": "Group",
+        "name": "Radiohead",
+        "disambiguation": "",
+        "tags": [
+          {
+            "count": 1,
+            "name": "alternative"
+          },
+          {
+            "count": 39,
+            "name": "alternative rock"
+          },
+          {
+            "name": "alternative rock music",
+            "count": 1
+          },
+          {
+            "name": "art pop",
+            "count": 2
+          },
+          {
+            "name": "art rock",
+            "count": 25
+          },
+          {
+            "count": 12,
+            "name": "british"
+          },
+          {
+            "name": "electronic",
+            "count": 11
+          },
+          {
+            "count": 1,
+            "name": "electronica"
+          },
+          {
+            "count": 1,
+            "name": "experimental"
+          },
+          {
+            "count": 12,
+            "name": "experimental rock"
+          },
+          {
+            "count": 3,
+            "name": "indie rock"
+          },
+          {
+            "name": "post-britpop",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "progressive rock music"
+          },
+          {
+            "count": 16,
+            "name": "rock"
+          }
+        ],
+        "country": "GB",
+        "sort-name": "Radiohead",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+      }
+    }
+  ],
+  "video": false,
+  "releases": [
+    {
+      "artist-credit": [
+        {
+          "joinphrase": "",
+          "artist": {
+            "disambiguation": "",
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "count": 3,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ],
+            "country": "GB",
+            "sort-name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "genres": [
+              {
+                "disambiguation": "",
+                "name": "alternative rock",
+                "count": 39,
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+              },
+              {
+                "count": 2,
+                "name": "art pop",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "name": "art rock",
+                "count": 25,
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+              },
+              {
+                "disambiguation": "",
+                "count": 11,
+                "name": "electronic",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+              },
+              {
+                "disambiguation": "",
+                "name": "electronica",
+                "count": 1,
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+              },
+              {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "name": "experimental",
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "disambiguation": "",
+                "count": 3,
+                "name": "indie rock",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7"
+              },
+              {
+                "disambiguation": "",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "name": "rock",
+                "count": 16,
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "disambiguation": ""
+              }
+            ],
+            "type": "Group",
+            "name": "Radiohead"
+          },
+          "name": "Radiohead"
+        }
+      ],
+      "date": "2004",
+      "status": "Bootleg",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "id": "71989dd8-89af-45de-87dc-d3d0b798f972",
+      "quality": "normal",
+      "barcode": null,
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "name": "United States",
+            "type": null,
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "type-id": null,
+            "sort-name": "United States",
+            "disambiguation": ""
+          },
+          "date": "2004"
+        }
+      ],
+      "genres": [],
+      "title": "Towering Above the Rest",
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "country": "US",
+      "tags": [],
+      "packaging-id": null,
+      "packaging": null
+    },
+    {
+      "genres": [],
+      "title": "Towering Above the Rest",
+      "country": "XW",
+      "tags": [],
+      "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+      "packaging": "None",
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "artist-credit": [
+        {
+          "artist": {
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Radiohead",
+            "country": "GB",
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "name": "british",
+                "count": 12
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "count": 1
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "disambiguation": "",
+            "name": "Radiohead",
+            "type": "Group",
+            "genres": [
+              {
+                "disambiguation": "",
+                "count": 39,
+                "name": "alternative rock",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+              },
+              {
+                "name": "art pop",
+                "count": 2,
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "disambiguation": "",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "disambiguation": "",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "name": "experimental",
+                "disambiguation": ""
+              },
+              {
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "name": "experimental rock",
+                "disambiguation": ""
+              },
+              {
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "name": "indie rock",
+                "count": 3,
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a"
+              },
+              {
+                "disambiguation": "",
+                "name": "rock",
+                "count": 16,
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ]
+          },
+          "joinphrase": "",
+          "name": "Radiohead"
+        }
+      ],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "disambiguation": "",
+      "date": "2004",
+      "status": "Bootleg",
+      "release-events": [
+        {
+          "area": {
+            "type-id": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "sort-name": "[Worldwide]",
+            "disambiguation": "",
+            "name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type": null
+          },
+          "date": "2004"
+        }
+      ],
+      "id": "70f80946-d618-496f-8384-4e6c5f0578a5",
+      "quality": "normal",
+      "barcode": ""
+    },
+    {
+      "genres": [],
+      "title": "Towering Above the Rest Complete",
+      "packaging-id": null,
+      "packaging": null,
+      "tags": [],
+      "country": "XW",
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "joinphrase": "",
+          "artist": {
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "sort-name": "Radiohead",
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "name": "british",
+                "count": 12
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "name": "post-britpop",
+                "count": 1
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "country": "GB",
+            "disambiguation": "",
+            "name": "Radiohead",
+            "type": "Group",
+            "genres": [
+              {
+                "disambiguation": "",
+                "count": 39,
+                "name": "alternative rock",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+              },
+              {
+                "disambiguation": "",
+                "name": "art pop",
+                "count": 2,
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14"
+              },
+              {
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "name": "art rock",
+                "count": 25,
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "count": 11,
+                "name": "electronic",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4"
+              },
+              {
+                "count": 1,
+                "name": "electronica",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "disambiguation": ""
+              },
+              {
+                "count": 1,
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "disambiguation": ""
+              },
+              {
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "name": "experimental rock",
+                "count": 12,
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "count": 3,
+                "name": "indie rock"
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a"
+              },
+              {
+                "count": 16,
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "disambiguation": ""
+              }
+            ]
+          }
+        }
+      ],
+      "disambiguation": "",
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "status": "Bootleg",
+      "date": "2004",
+      "release-events": [
+        {
+          "area": {
+            "name": "[Worldwide]",
+            "iso-3166-1-codes": [
+              "XW"
+            ],
+            "type": null,
+            "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+            "type-id": null,
+            "sort-name": "[Worldwide]",
+            "disambiguation": ""
+          },
+          "date": "2004"
+        }
+      ],
+      "barcode": "",
+      "quality": "normal",
+      "id": "aa1e6810-906c-4d4d-b40b-01f277f6fbd2"
+    },
+    {
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "artist": {
+            "disambiguation": "",
+            "country": "GB",
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "name": "alternative rock",
+                "count": 39
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "name": "british",
+                "count": 12
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "count": 1,
+                "name": "progressive rock music"
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "sort-name": "Radiohead",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "genres": [
+              {
+                "disambiguation": "",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop",
+                "count": 2,
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "count": 25,
+                "name": "art rock",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+              },
+              {
+                "disambiguation": "",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "name": "electronica",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "count": 1,
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "disambiguation": ""
+              },
+              {
+                "count": 12,
+                "name": "experimental rock",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "disambiguation": ""
+              },
+              {
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "name": "indie rock",
+                "count": 3,
+                "disambiguation": ""
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a"
+              },
+              {
+                "disambiguation": "",
+                "count": 16,
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "type": "Group",
+            "name": "Radiohead"
+          },
+          "joinphrase": ""
+        }
+      ],
+      "barcode": null,
+      "id": "69cb9fc2-14cc-47e8-8154-7d613b6ddcb8",
+      "quality": "normal",
+      "disambiguation": "",
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status": "Bootleg",
+      "title": "Rarities",
+      "genres": [],
+      "packaging-id": null,
+      "packaging": null,
+      "tags": [],
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9"
+    }
+  ],
+  "id": "86a33813-ce8f-4f36-936e-c18f64db9620",
+  "rating": {
+    "votes-count": 1,
+    "value": 3.5
+  },
+  "disambiguation": "",
+  "title": "True Love Waits (live)",
+  "genres": [
+    {
+      "count": 1,
+      "name": "rock",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "disambiguation": ""
+    }
+  ],
+  "first-release-date": "2004",
+  "length": 276000,
+  "tags": [
+    {
+      "name": "rock",
+      "count": 1
+    }
+  ]
+}

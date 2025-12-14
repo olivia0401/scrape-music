@@ -1,0 +1,321 @@
+{
+  "length": 6000,
+  "rating": {
+    "value": null,
+    "votes-count": 0
+  },
+  "artist-credit": [
+    {
+      "name": "Radiohead",
+      "artist": {
+        "tags": [
+          {
+            "name": "alternative",
+            "count": 1
+          },
+          {
+            "count": 39,
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "name": "alternative rock music"
+          },
+          {
+            "name": "art pop",
+            "count": 2
+          },
+          {
+            "name": "art rock",
+            "count": 25
+          },
+          {
+            "name": "british",
+            "count": 12
+          },
+          {
+            "count": 11,
+            "name": "electronic"
+          },
+          {
+            "name": "electronica",
+            "count": 1
+          },
+          {
+            "name": "experimental",
+            "count": 1
+          },
+          {
+            "count": 12,
+            "name": "experimental rock"
+          },
+          {
+            "name": "indie rock",
+            "count": 3
+          },
+          {
+            "count": 1,
+            "name": "post-britpop"
+          },
+          {
+            "name": "progressive rock music",
+            "count": 1
+          },
+          {
+            "count": 16,
+            "name": "rock"
+          }
+        ],
+        "genres": [
+          {
+            "name": "alternative rock",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "disambiguation": "",
+            "count": 39
+          },
+          {
+            "name": "art pop",
+            "count": 2,
+            "disambiguation": "",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14"
+          },
+          {
+            "count": 25,
+            "disambiguation": "",
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock"
+          },
+          {
+            "disambiguation": "",
+            "count": 11,
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "name": "electronica",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "count": 1,
+            "disambiguation": ""
+          },
+          {
+            "name": "experimental",
+            "count": 1,
+            "disambiguation": "",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99"
+          },
+          {
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "disambiguation": "",
+            "count": 12,
+            "name": "experimental rock"
+          },
+          {
+            "name": "indie rock",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "count": 3,
+            "disambiguation": ""
+          },
+          {
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "disambiguation": "",
+            "count": 1,
+            "name": "post-britpop"
+          },
+          {
+            "name": "rock",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "count": 16,
+            "disambiguation": ""
+          }
+        ],
+        "type": "Group",
+        "name": "Radiohead",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Radiohead",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "title": "Interview: I’d Love to Make Music Like This",
+  "video": false,
+  "releases": [
+    {
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "status": "Bootleg",
+      "genres": [],
+      "quality": "normal",
+      "country": "GB",
+      "disambiguation": "",
+      "barcode": null,
+      "packaging-id": null,
+      "tags": [],
+      "release-events": [
+        {
+          "date": "1995-10-28",
+          "area": {
+            "type": null,
+            "name": "United Kingdom",
+            "type-id": null,
+            "sort-name": "United Kingdom",
+            "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+            "disambiguation": "",
+            "iso-3166-1-codes": [
+              "GB"
+            ]
+          }
+        }
+      ],
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "artist": {
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "name": "alternative rock music",
+                "count": 1
+              },
+              {
+                "name": "art pop",
+                "count": 2
+              },
+              {
+                "count": 25,
+                "name": "art rock"
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "name": "progressive rock music",
+                "count": 1
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "name": "Radiohead",
+            "type": "Group",
+            "genres": [
+              {
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "disambiguation": "",
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "disambiguation": "",
+                "count": 2,
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "name": "art pop"
+              },
+              {
+                "count": 25,
+                "disambiguation": "",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "name": "art rock"
+              },
+              {
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "disambiguation": "",
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "name": "electronica",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "disambiguation": "",
+                "name": "experimental rock"
+              },
+              {
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "count": 3,
+                "disambiguation": "",
+                "name": "indie rock"
+              },
+              {
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "count": 16,
+                "disambiguation": "",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "name": "rock"
+              }
+            ],
+            "disambiguation": "",
+            "country": "GB",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "sort-name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+          },
+          "joinphrase": ""
+        }
+      ],
+      "title": "1995‐10‐28: XFM Session, XFM Studio, London, England, UK",
+      "id": "7aa39310-1d47-4a88-ae84-a97f34d1305c",
+      "date": "1995-10-28",
+      "packaging": null,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9"
+    }
+  ],
+  "id": "2dad0ede-2cfc-4c1b-ba58-8d53116e5570",
+  "first-release-date": "1995-10-28",
+  "tags": [],
+  "genres": [],
+  "disambiguation": ""
+}

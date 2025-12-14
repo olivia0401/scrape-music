@@ -1,0 +1,302 @@
+{
+  "genres": [],
+  "id": "c07c9237-fca9-4a76-b707-8d911af69ed6",
+  "tags": [],
+  "title": "True Love Waits",
+  "releases": [
+    {
+      "genres": [],
+      "quality": "normal",
+      "packaging-id": null,
+      "text-representation": {
+        "language": "eng",
+        "script": "Latn"
+      },
+      "barcode": null,
+      "status": "Bootleg",
+      "artist-credit": [
+        {
+          "artist": {
+            "disambiguation": "",
+            "sort-name": "Radiohead",
+            "type": "Group",
+            "country": "GB",
+            "name": "Radiohead",
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "name": "alternative rock",
+                "count": 39
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "name": "british",
+                "count": 12
+              },
+              {
+                "count": 11,
+                "name": "electronic"
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "name": "experimental rock",
+                "count": 12
+              },
+              {
+                "name": "indie rock",
+                "count": 3
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "count": 1,
+                "name": "progressive rock music"
+              },
+              {
+                "count": 16,
+                "name": "rock"
+              }
+            ],
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "genres": [
+              {
+                "count": 39,
+                "disambiguation": "",
+                "name": "alternative rock",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18"
+              },
+              {
+                "disambiguation": "",
+                "count": 2,
+                "name": "art pop",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14"
+              },
+              {
+                "disambiguation": "",
+                "count": 25,
+                "name": "art rock",
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b"
+              },
+              {
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "name": "electronic",
+                "disambiguation": "",
+                "count": 11
+              },
+              {
+                "count": 1,
+                "disambiguation": "",
+                "name": "electronica",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5"
+              },
+              {
+                "disambiguation": "",
+                "count": 1,
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "name": "experimental"
+              },
+              {
+                "count": 12,
+                "disambiguation": "",
+                "name": "experimental rock",
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7"
+              },
+              {
+                "count": 3,
+                "disambiguation": "",
+                "name": "indie rock",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7"
+              },
+              {
+                "name": "post-britpop",
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "disambiguation": ""
+              },
+              {
+                "count": 16,
+                "disambiguation": "",
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ]
+          },
+          "joinphrase": "",
+          "name": "Radiohead"
+        }
+      ],
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "title": "2002-08-01: Teatro Kursaal, San Sebastian, Spain",
+      "tags": [],
+      "id": "0299c4da-dd58-4d4f-be3d-388a0ffc9e31",
+      "packaging": null,
+      "disambiguation": ""
+    }
+  ],
+  "rating": {
+    "value": null,
+    "votes-count": 0
+  },
+  "video": false,
+  "length": null,
+  "artist-credit": [
+    {
+      "name": "Radiohead",
+      "joinphrase": "",
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Radiohead",
+        "type": "Group",
+        "country": "GB",
+        "tags": [
+          {
+            "name": "alternative",
+            "count": 1
+          },
+          {
+            "count": 39,
+            "name": "alternative rock"
+          },
+          {
+            "count": 1,
+            "name": "alternative rock music"
+          },
+          {
+            "count": 2,
+            "name": "art pop"
+          },
+          {
+            "name": "art rock",
+            "count": 25
+          },
+          {
+            "name": "british",
+            "count": 12
+          },
+          {
+            "name": "electronic",
+            "count": 11
+          },
+          {
+            "name": "electronica",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "experimental"
+          },
+          {
+            "count": 12,
+            "name": "experimental rock"
+          },
+          {
+            "count": 3,
+            "name": "indie rock"
+          },
+          {
+            "name": "post-britpop",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "progressive rock music"
+          },
+          {
+            "name": "rock",
+            "count": 16
+          }
+        ],
+        "name": "Radiohead",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "genres": [
+          {
+            "disambiguation": "",
+            "count": 39,
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "disambiguation": "",
+            "count": 2,
+            "name": "art pop",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14"
+          },
+          {
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "name": "art rock",
+            "count": 25,
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "count": 11,
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "name": "electronic"
+          },
+          {
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "name": "electronica",
+            "count": 1,
+            "disambiguation": ""
+          },
+          {
+            "disambiguation": "",
+            "count": 1,
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "name": "experimental"
+          },
+          {
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+            "name": "experimental rock",
+            "count": 12,
+            "disambiguation": ""
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "name": "post-britpop",
+            "count": 1,
+            "disambiguation": ""
+          },
+          {
+            "name": "rock",
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "count": 16,
+            "disambiguation": ""
+          }
+        ]
+      }
+    }
+  ],
+  "disambiguation": "live, 2002-08-01: Teatro Kursaal, San Sebastian, Spain"
+}

@@ -1,0 +1,320 @@
+{
+  "tags": [],
+  "length": null,
+  "rating": {
+    "value": null,
+    "votes-count": 0
+  },
+  "releases": [
+    {
+      "packaging": null,
+      "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+      "artist-credit": [
+        {
+          "name": "Radiohead",
+          "joinphrase": "",
+          "artist": {
+            "type": "Group",
+            "genres": [
+              {
+                "name": "alternative rock",
+                "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+                "count": 39,
+                "disambiguation": ""
+              },
+              {
+                "name": "art pop",
+                "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+                "disambiguation": "",
+                "count": 2
+              },
+              {
+                "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+                "count": 25,
+                "disambiguation": "",
+                "name": "art rock"
+              },
+              {
+                "name": "electronic",
+                "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+                "count": 11,
+                "disambiguation": ""
+              },
+              {
+                "name": "electronica",
+                "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+                "count": 1,
+                "disambiguation": "",
+                "name": "experimental"
+              },
+              {
+                "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7",
+                "count": 12,
+                "disambiguation": "",
+                "name": "experimental rock"
+              },
+              {
+                "name": "indie rock",
+                "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+                "disambiguation": "",
+                "count": 3
+              },
+              {
+                "id": "a493b79c-4072-4371-a14c-446b1027982a",
+                "count": 1,
+                "disambiguation": "",
+                "name": "post-britpop"
+              },
+              {
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "count": 16,
+                "disambiguation": ""
+              }
+            ],
+            "name": "Radiohead",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "sort-name": "Radiohead",
+            "disambiguation": "",
+            "country": "GB",
+            "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "tags": [
+              {
+                "name": "alternative",
+                "count": 1
+              },
+              {
+                "count": 39,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "alternative rock music"
+              },
+              {
+                "count": 2,
+                "name": "art pop"
+              },
+              {
+                "name": "art rock",
+                "count": 25
+              },
+              {
+                "count": 12,
+                "name": "british"
+              },
+              {
+                "name": "electronic",
+                "count": 11
+              },
+              {
+                "name": "electronica",
+                "count": 1
+              },
+              {
+                "name": "experimental",
+                "count": 1
+              },
+              {
+                "count": 12,
+                "name": "experimental rock"
+              },
+              {
+                "count": 3,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "post-britpop"
+              },
+              {
+                "count": 1,
+                "name": "progressive rock music"
+              },
+              {
+                "name": "rock",
+                "count": 16
+              }
+            ]
+          }
+        }
+      ],
+      "release-events": [
+        {
+          "area": {
+            "iso-3166-1-codes": [
+              "US"
+            ],
+            "type": null,
+            "name": "United States",
+            "id": "489ce91b-6658-3307-9877-795b68554c98",
+            "disambiguation": "",
+            "sort-name": "United States",
+            "type-id": null
+          },
+          "date": ""
+        }
+      ],
+      "title": "2008‐10‐08: International Forum, Tokyo, Japan",
+      "id": "fd883eba-ee6d-4674-a86f-2f2f25a3f2bf",
+      "date": "",
+      "packaging-id": null,
+      "barcode": null,
+      "tags": [],
+      "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+      },
+      "genres": [],
+      "status": "Bootleg",
+      "quality": "normal",
+      "country": "US",
+      "disambiguation": ""
+    }
+  ],
+  "video": false,
+  "disambiguation": "live, 2008‐10‐08: International Forum, Tokyo, Japan",
+  "id": "7525f364-d262-4758-836e-28af7c678b94",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "tags": [
+          {
+            "name": "alternative",
+            "count": 1
+          },
+          {
+            "name": "alternative rock",
+            "count": 39
+          },
+          {
+            "count": 1,
+            "name": "alternative rock music"
+          },
+          {
+            "name": "art pop",
+            "count": 2
+          },
+          {
+            "count": 25,
+            "name": "art rock"
+          },
+          {
+            "count": 12,
+            "name": "british"
+          },
+          {
+            "count": 11,
+            "name": "electronic"
+          },
+          {
+            "name": "electronica",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "name": "experimental"
+          },
+          {
+            "name": "experimental rock",
+            "count": 12
+          },
+          {
+            "name": "indie rock",
+            "count": 3
+          },
+          {
+            "count": 1,
+            "name": "post-britpop"
+          },
+          {
+            "name": "progressive rock music",
+            "count": 1
+          },
+          {
+            "name": "rock",
+            "count": 16
+          }
+        ],
+        "name": "Radiohead",
+        "type": "Group",
+        "genres": [
+          {
+            "count": 39,
+            "disambiguation": "",
+            "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+            "name": "alternative rock"
+          },
+          {
+            "name": "art pop",
+            "id": "930ef127-3653-4677-9b95-ecc90c7c1a14",
+            "disambiguation": "",
+            "count": 2
+          },
+          {
+            "id": "b7ef058e-6d83-4ca4-8123-9724bff4648b",
+            "disambiguation": "",
+            "count": 25,
+            "name": "art rock"
+          },
+          {
+            "name": "electronic",
+            "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+            "count": 11,
+            "disambiguation": ""
+          },
+          {
+            "name": "electronica",
+            "id": "53a3cea3-17af-4421-a07a-5824b540aeb5",
+            "disambiguation": "",
+            "count": 1
+          },
+          {
+            "count": 1,
+            "disambiguation": "",
+            "id": "68c81274-5770-4e7b-a4bf-ab0d7d425d99",
+            "name": "experimental"
+          },
+          {
+            "name": "experimental rock",
+            "disambiguation": "",
+            "count": 12,
+            "id": "65c97e89-b42b-45c2-a70e-0eca1b8f0ff7"
+          },
+          {
+            "count": 3,
+            "disambiguation": "",
+            "id": "ccd19ebf-052c-4afe-8ad9-fbb0a73f94a7",
+            "name": "indie rock"
+          },
+          {
+            "disambiguation": "",
+            "count": 1,
+            "id": "a493b79c-4072-4371-a14c-446b1027982a",
+            "name": "post-britpop"
+          },
+          {
+            "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+            "count": 16,
+            "disambiguation": "",
+            "name": "rock"
+          }
+        ],
+        "disambiguation": "",
+        "country": "GB",
+        "id": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+        "sort-name": "Radiohead",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "name": "Radiohead"
+    }
+  ],
+  "genres": [],
+  "title": "The One Is Love / Everything in Its Right Place"
+}
