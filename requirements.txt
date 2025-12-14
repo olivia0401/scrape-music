@@ -8,9 +8,6 @@ playwright>=1.30.0
 apscheduler>=3.10.0        # Real-time job scheduling
 boto3>=1.26.0              # AWS SDK for Python
 
-# LLM & AI integration
-openai>=1.0.0              # OpenAI API client for trend analysis
-
 # Monitoring & logging
 python-json-logger>=2.0.0  # Structured logging
 

@@ -1,6 +1,6 @@
 # Web Scraping Lab: Production-Grade Data Intelligence System
 
-A comprehensive demonstration of modern web scraping techniques with **real-time automation**, **AWS deployment**, and **LLM-powered analytics**. This project showcases the complete pipeline from creative data acquisition to production infrastructure and AI-driven insights.
+A comprehensive demonstration of modern web scraping techniques with **real-time automation** and **AWS deployment**. This project showcases the complete pipeline from creative data acquisition to production infrastructure.
 
 ## 🎯 What This Demonstrates
 
@@ -8,24 +8,21 @@ A comprehensive demonstration of modern web scraping techniques with **real-time
 - ✅ Creative scraping techniques for hard-to-reach data sources
 - ✅ Production infrastructure (AWS EC2, S3, CloudWatch)
 - ✅ Real-time automated data collection (24/7 operation)
-- ✅ LLM integration for agentic data workflows
 - ✅ Monitoring & alerting systems
 
 ## Overview
 
 **Core Scrapers:** 4 production-ready scripts
 **Infrastructure:** AWS deployment + real-time scheduling
-**AI Integration:** LLM-powered trend analysis
-**Total Code:** 1,200+ lines
+**Total Code:** 850+ lines
 **Status:** Production-ready with cloud deployment capabilities
 
-### 🚀 New Production Features
+### 🚀 Production Infrastructure
 
 | Feature | File | Description |
 |---------|------|-------------|
-| **Real-Time Scheduling** | `scheduler.py` | APScheduler with job monitoring, metrics tracking, and automated alerts |
-| **AWS Deployment** | `aws_deploy.py` | EC2 provisioning, S3 storage, CloudWatch monitoring setup |
-| **LLM Analytics** | `llm_trends.py` | AI-powered trend analysis, viral prediction, automated insights |
+| **Real-Time Scheduling** | `scheduler.py` | 24/7 automated scraping with cron scheduling and metrics tracking |
+| **AWS Deployment** | `aws_deploy.py` | One-click EC2 provisioning, S3 storage, and CloudWatch monitoring |
 
 ---
 
@@ -308,16 +305,15 @@ quote,author,tags
 Automated 24/7 scraping operations with production-grade reliability:
 
 ```python
-from scheduler import ScraperScheduler
+from scheduler import SimpleScheduler
 
-scheduler = ScraperScheduler()
+scheduler = SimpleScheduler()
 
 # Schedule hourly scraping
 scheduler.add_job(
     scrape_musicbrainz,
     job_id='musicbrainz_hourly',
-    cron_expression='0 * * * *',  # Every hour
-    max_instances=1
+    cron_expr='0 * * * *'  # Every hour
 )
 
 scheduler.start()  # Runs until stopped
@@ -325,11 +321,9 @@ scheduler.start()  # Runs until stopped
 
 **Features:**
 - ✅ Cron-based scheduling (every 15 min, hourly, daily)
-- ✅ Automatic error recovery with exponential backoff
+- ✅ Automatic error recovery
 - ✅ Execution metrics tracking (success rate, timing)
-- ✅ Alert system for high failure rates
-- ✅ Job history persistence (last 100 executions)
-- ✅ Health monitoring
+- ✅ Basic job monitoring
 
 **Use Cases:**
 - Real-time music trend tracking
@@ -343,79 +337,33 @@ scheduler.start()  # Runs until stopped
 One-click deployment to AWS cloud infrastructure:
 
 ```python
-from aws_deploy import AWSDeploymentManager
+from aws_deploy import AWSScraperDeployment
 
-manager = AWSDeploymentManager(region='us-east-1')
+manager = AWSScraperDeployment(region='us-east-1')
 
 # 1. Create S3 bucket for data storage
 manager.create_data_bucket('scraper-data-2025')
 
 # 2. Launch EC2 instance with auto-setup
-instance_id = manager.launch_scraper_instance(
-    instance_name='scraper-production',
-    instance_type='t2.micro'  # Free tier
-)
+instance_id = manager.launch_scraper_instance(key_name='your-key')
 
 # 3. Set up CloudWatch monitoring
 manager.setup_monitoring(instance_id)
 
 # 4. Upload data to S3
-manager.upload_to_s3(local_file, bucket, s3_key)
+manager.upload_data(local_file, bucket, s3_key)
 ```
 
 **Features:**
 - ✅ EC2 instance provisioning with user data scripts
-- ✅ S3 data storage with lifecycle policies (auto-archive after 90 days)
-- ✅ CloudWatch alarms (CPU, disk usage)
-- ✅ IAM role management
-- ✅ Security group configuration
+- ✅ S3 data storage
+- ✅ CloudWatch alarms (CPU monitoring)
 - ✅ Automatic dependency installation
 
 **Infrastructure:**
 - EC2 t2.micro (free tier eligible)
-- S3 with versioning enabled
+- S3 bucket for data storage
 - CloudWatch metrics & alarms
-- Auto-scaling ready
-
----
-
-### LLM-Powered Analytics (`llm_trends.py`)
-
-AI-driven insights and automated data analysis:
-
-```python
-from llm_trends import LLMTrendAnalyzer
-
-analyzer = LLMTrendAnalyzer(model='gpt-4o-mini')
-
-# Analyze scraped data
-insights = analyzer.generate_insights(df)
-# Returns: {
-#   'trends': [...],
-#   'anomalies': [...],
-#   'predictions': [...],
-#   'recommendations': [...]
-# }
-
-# Predict viral potential
-viral_score = analyzer.detect_viral_potential(
-    content="Amazing new song lyrics...",
-    metadata={'artist': 'Artist Name', 'genre': 'Pop'}
-)
-# Returns: {'score': 85, 'factors': [...], 'recommendations': [...]}
-```
-
-**Agentic Capabilities:**
-- ✅ Automated trend identification
-- ✅ Anomaly detection
-- ✅ Viral potential prediction
-- ✅ Intelligent data cleaning (fix typos, normalize formats)
-- ✅ Insight generation for business decisions
-
-**Integration:**
-- GPT-4 / GPT-4o-mini
-- Prompt engineering for data analysis
-- Cost-optimized (sample limiting)
 
 ---
 
@@ -431,13 +379,7 @@ viral_score = analyzer.detect_viral_potential(
 - **AWS Deployment:** EC2, S3, CloudWatch integration
 - **Infrastructure as Code:** Automated provisioning with boto3
 - **Monitoring & Alerts:** CloudWatch alarms, custom metrics
-- **Cost Optimization:** Free tier usage, lifecycle policies
-
-### 🤖 AI/ML Integration
-- **LLM Engineering:** GPT-4 integration for data analysis
-- **Agentic Workflows:** AI-powered data cleaning and insights
-- **Prompt Engineering:** Structured prompts for reliable outputs
-- **Viral Prediction:** ML-driven content analysis
+- **Cost Optimization:** Free tier usage
 
 ### 🐍 Python & Software Engineering
 - **Production Code:** Error handling, logging, metrics tracking
@@ -468,9 +410,8 @@ python 04_playwright_js_delayed.py
 ### Production Setup (Real-Time + AWS)
 
 ```bash
-# 1. Set up environment variables
-export OPENAI_API_KEY="your-key"  # For LLM analytics
-export AWS_ACCESS_KEY_ID="your-key"  # For AWS deployment
+# 1. Set up AWS credentials
+export AWS_ACCESS_KEY_ID="your-key"
 export AWS_SECRET_ACCESS_KEY="your-secret"
 
 # 2. Run scheduler for automated scraping
@@ -478,9 +419,6 @@ python scheduler.py
 
 # 3. Deploy to AWS (one-time setup)
 python aws_deploy.py
-
-# 4. Analyze data with LLM
-python llm_trends.py
 ```
 
 ---
@@ -497,9 +435,6 @@ playwright>=1.30.0
 # Production infrastructure
 apscheduler>=3.10.0        # Real-time scheduling
 boto3>=1.26.0              # AWS SDK
-
-# LLM & AI
-openai>=1.0.0              # AI-powered analysis
 
 # See requirements.txt for full list
 ```
