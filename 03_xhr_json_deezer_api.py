@@ -55,16 +55,52 @@ def build_session() -> requests.Session:
     return s
 
 
-def make_cid() -> str:
-    return str(random.randint(10**9, 10**10 - 1))
-
 
 def dump_json(path: Path, obj: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-import re
+def fetch(session: requests.Session, url: str, timeout: int) -> str:
+    r = session.get(url, timeout=timeout)
+    r.raise_for_status()
+    return r.text
+
+
+def parse(html: str) -> Dict[str, Any]:
+    start_str = "window.__DZR_APP_STATE__ = "
+    start_index = html.find(start_str)
+    if start_index == -1:
+        raise RuntimeError("Could not find __DZR_APP_STATE__ in the page")
+
+    start_json = start_index + len(start_str)
+    
+    # Find the matching closing brace
+    brace_level = 0
+    end_json = -1
+    # Make sure we start at the first brace
+    first_brace = html.find('{', start_json)
+    if first_brace == -1:
+        raise RuntimeError("Could not find the start of the JSON object")
+
+    for i in range(first_brace, len(html)):
+        if html[i] == '{':
+            brace_level += 1
+        elif html[i] == '}':
+            brace_level -= 1
+            if brace_level == 0:
+                end_json = i + 1
+                break
+    
+    if end_json == -1:
+        raise RuntimeError("Could not find the end of the JSON object")
+
+    json_str = html[first_brace:end_json]
+    return json.loads(json_str)
+
+
+def save(path: Path, data: Dict[str, Any]) -> None:
+    dump_json(path, data)
 
 
 def main() -> int:
@@ -72,41 +108,10 @@ def main() -> int:
     session = build_session()
     html = ""
     try:
-        r = session.get(cfg.target_page, timeout=cfg.timeout)
-        r.raise_for_status()
-        html = r.text
-
-        start_str = "window.__DZR_APP_STATE__ = "
-        start_index = html.find(start_str)
-        if start_index == -1:
-            raise RuntimeError("Could not find __DZR_APP_STATE__ in the page")
-
-        start_json = start_index + len(start_str)
+        html = fetch(session, cfg.target_page, cfg.timeout)
+        data = parse(html)
+        save(cfg.out_json, data)
         
-        # Find the matching closing brace
-        brace_level = 0
-        end_json = -1
-        # Make sure we start at the first brace
-        first_brace = html.find('{', start_json)
-        if first_brace == -1:
-            raise RuntimeError("Could not find the start of the JSON object")
-
-        for i in range(first_brace, len(html)):
-            if html[i] == '{':
-                brace_level += 1
-            elif html[i] == '}':
-                brace_level -= 1
-                if brace_level == 0:
-                    end_json = i + 1
-                    break
-        
-        if end_json == -1:
-            raise RuntimeError("Could not find the end of the JSON object")
-
-        json_str = html[first_brace:end_json]
-        data = json.loads(json_str)
-        
-        dump_json(cfg.out_json, data)
         print(f"[OK] successfully extracted __DZR_APP_STATE__ -> {cfg.out_json.resolve()}")
         return 0
 
