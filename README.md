@@ -1,51 +1,56 @@
-# Web Scraping Scripts Collection
+# Scrape Lab: Data Collection Scripts
 
-This project contains a collection of Python scripts demonstrating various web scraping techniques.
+This project is a collection of Python scripts demonstrating various web scraping and data collection techniques, covering scenarios from static HTML pages to dynamic, JavaScript-rendered websites and REST APIs.
 
-## Script Descriptions
+## Scripts Overview
 
--   `01_api_musicbrainz.py`
-    -   **Functionality**: Fetches data from the MusicBrainz API. The script searches for recording information based on a specified artist name and saves the search results and recording details into separate CSV files within the `outputs/` directory.
+### 1. `01_api_musicbrainz.py`
+- **Objective:** Fetches recording data from the MusicBrainz REST API.
+- **Features:**
+    - Interacts with a JSON-based REST API.
+    - Implements pagination to retrieve a large number of records.
+    - Includes a simple exponential backoff retry mechanism for handling transient network errors.
+    - Supports resuming downloads by checking for already downloaded data, preventing redundant requests.
+- **Tech:** `requests`, `pandas`
 
--   `02_static_html_quotes.py`
-    -   **Functionality**: Scrapes quotes and author information from the static HTML website `quotes.toscrape.com` and saves the results to `outputs/quotes_static.csv`.
+### 2. `02_static_html_quotes.py`
+- **Objective:** Scrapes quotes from `quotes.toscrape.com`, a static HTML website.
+- **Features:**
+    - Parses HTML content using `BeautifulSoup`.
+    - Navigates through multiple pages by extracting the "Next" page link.
+    - Demonstrates a polite scraping approach with a fixed delay between requests.
+- **Tech:** `requests`, `pandas`, `BeautifulSoup`
 
--   `03_xhr_json_deezer_api.py`
-    -   **Functionality**: Scrapes public chart data from the Deezer website. This script directly requests the charts page and then parses a JSON object named `__DZR_APP_STATE__` embedded in the HTML to extract the data, finally saving it to `outputs/deezer_page.json`.
+### 3. `03_xhr_json_deezer_api.py`
+- **Objective:** Extracts structured JSON data embedded within a page's HTML source.
+- **Features:**
+    - Fetches the main page HTML from `deezer.com`.
+    - Locates and parses a large JSON object (`window.__DZR_APP_STATE__`) embedded in a `<script>` tag.
+    - This technique is useful for sites that load their initial state this way, bypassing the need for reverse-engineering internal APIs.
+- **Tech:** `requests`, `json`
 
--   `04_playwright_js_delayed.py`
-    -   **Functionality**: Demonstrates how to use the Playwright library to scrape a webpage that loads content asynchronously (delayed loading) via JavaScript. It waits for the data to load before scraping and saves the results to `outputs/quotes_playwright.csv`.
-
-## Environment Setup
-
-It is recommended to install the required dependencies within a Python virtual environment.
-
-1.  **Install Dependencies:**
-    ```bash
-    pip install requests pandas playwright
-    ```
-
-2.  **Install Playwright Browser Drivers:**
-    ```bash
-    playwright install
-    ```
+### 4. `04_playwright_js_delayed.py`
+- **Objective:** Scrapes quotes from `quotes.toscrape.com/js-delayed/`, where content is rendered dynamically using JavaScript.
+- **Features:**
+    - Uses Playwright to control a headless browser, ensuring all JavaScript is executed.
+    - Waits for specific CSS selectors to appear on the page before attempting to extract data.
+    - A robust solution for modern, dynamic websites.
+- **Tech:** `playwright`, `pandas`, `asyncio`
 
 ## How to Run
 
-You can run each script directly using Python. Please ensure your current working directory is `scrape_lab`.
+1.  **Install Dependencies:**
+    ```bash
+    pip install requests pandas beautifulsoup4 "playwright"
+    python -m playwright install
+    ```
 
-```bash
-# Run MusicBrainz API scraping script
-python 01_api_musicbrainz.py
+2.  **Run a Script:**
+    Each script can be run independently. The output data will be saved to the `outputs/` directory.
+    ```bash
+    # Example: Run the static HTML scraper
+    python3 02_static_html_quotes.py
 
-# Run static HTML scraping script
-python 02_static_html_quotes.py
-
-# Run Deezer charts scraping script
-python 03_xhr_json_deezer_api.py
-
-# Run Playwright delayed JS loading scraping script
-python 04_playwright_js_delayed.py
-```
-
-All scraped data and output files will be saved in the `outputs/` directory.
+    # Example: Run the Playwright script for a JS-rendered page
+    python3 04_playwright_js_delayed.py
+    ```
