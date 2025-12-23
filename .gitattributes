@@ -1,0 +1,2 @@
+# Mark Python as the primary language
+*.py linguist-language=Python
